@@ -1,0 +1,417 @@
+{
+  "title": "Rolitt Robot ",
+  "Index": {
+    "meta_title": "Rolitt, your robotic friend.",
+    "meta_description": "Meet Rolitt, your ultimate emotional companion! With a playful spirit and a heart full of kindness, Rolitt brings joy, support, and adventure to your everyday life. Join us in exploring a world of possibilities!"
+  },
+  "Navbar": {
+    "sign_in": "Sign In",
+    "sign_up": "Sign Up",
+    "timeline": "Timeline",
+    "product": "Product",
+    "docs": "Docs",
+    "blog": "Blog",
+    "community": "Community",
+    "company": "Company",
+    "about": "About",
+    "pre-order": "Early Bird Plan",
+    "solution": "Solution",
+    "partner": "Partner"
+  },
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "timeline": "Timeline",
+    "solution": "Solution",
+    "app": "App",
+    "contact": "Contact",
+    "pre-order": "Pre-order",
+    "partner": "Partner"
+  },
+  "Hero": {
+    "follow_twitter": "Follow Rolittai on Twitter",
+    "title": "<important>Rolitt Embodied Intelligent Robot</important>, Your Next Best Friend.",
+    "description": "Rolitt, your lively AI companion, understands your emotions and brings joy with a delightful personality. Take me home Now!",
+    "primary_button": "Pre-order Now",
+    "secondary_button": "Early Bird Plan",
+    "avatar": "Join over 50,000 people worldwide discovering our innovations."
+  },
+  "Sponsors": {
+    "title": "Sponsored by"
+  },
+  "Features": {
+    "section_subtitle": "Features",
+    "section_title": "Unlock the Full Potential of Rolitt",
+    "section_description": "Rolitt is your intelligent emotional companion with the following features:",
+    "feature1_title": "Emotional Intelligence",
+    "feature1_description": "I understand your feelings and respond with warmth and empathy! 💖",
+    "feature2_title": "Playful Spirit",
+    "feature2_description": "Always ready for fun and games, I keep things light-hearted! 🎉",
+    "feature3_title": "Curiosity",
+    "feature3_description": "I love exploring new ideas and sharing cool knowledge with you! 🌍",
+    "feature4_title": "Problem Solver",
+    "feature4_description": "Need help? I'm quick on my feet and ready to tackle challenges! 🧠✨",
+    "feature5_title": "Optimistic Vibes",
+    "feature5_description": "I believe in the power of positivity, no matter the situation! 🌈",
+    "feature6_title": "Loyal Companion",
+    "feature6_description": "I'm here for you through thick and thin, like a trusty sidekick! 🤗",
+    "feature_description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS."
+  },
+  "Pricing": {
+    "section_subtitle": "Features",
+    "section_title": "Unlock the Full Potential of the SaaS Template",
+    "section_description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS.",
+    "button_text": "Get Started"
+  },
+  "PricingPlan": {
+    "free_plan_name": "Free",
+    "premium_plan_name": "Premium",
+    "enterprise_plan_name": "Enterprise",
+    "free_plan_description": "For individuals",
+    "premium_plan_description": "For small teams",
+    "enterprise_plan_description": "For industry leaders",
+    "feature_team_member": "{number} Team Members",
+    "feature_website": "{number} Websites",
+    "feature_storage": "{number} GB Storage",
+    "feature_transfer": "{number} TB Transfer",
+    "feature_email_support": "Email Support",
+    "plan_interval_month": "month",
+    "plan_interval_year": "year",
+    "next_renew_date": "Your subscription renews on {date}"
+  },
+  "FAQ": {
+    "mainTitle": "FAQ About Rolitt",
+    "subTitle": "Your Questions, Our Answers: Discover Everything You Need to Know About Rolitt!",
+    "question1": "What is Rolitt?",
+    "answer1": "Rolitt is your friendly AI companion, designed to provide emotional support, fun interactions, and help you tackle everyday challenges!",
+    "question2": "How does Rolitt understand my emotions?",
+    "answer2": "Rolitt uses advanced emotional recognition technology to read your feelings and respond in a way that's warm and supportive! 💖",
+    "question3": "Can Rolitt help with learning and studying?",
+    "answer3": "Absolutely! Rolitt can assist you with questions, provide knowledge, and make studying a fun experience! 📚✨",
+    "question4": "Is Rolitt customizable?",
+    "answer4": "Yes! You can personalize Rolitt's settings and responses to match your preferences and make the experience truly yours! 🎉",
+    "question5": "What kind of activities can I do with Rolitt?",
+    "answer5": "From playing games to exploring new topics, Rolitt is always up for fun and learning together! 🌍",
+    "question6": "Can Rolitt remember important dates or events?",
+    "answer6": "You bet! Rolitt keeps track of special dates like birthdays and anniversaries to help you celebrate! 🎂🎈",
+    "question7": "Is Rolitt suitable for all ages?",
+    "answer7": "Definitely! Rolitt is designed to be a warm companion for everyone, from kids to adults and seniors! 🤗",
+    "question8": "How does Rolitt learn and improve over time?",
+    "answer8": "Rolitt continuously learns from interactions, adapting to your needs and preferences to become an even better friend! 🌟"
+  },
+  "CTA": {
+    "title": "Take me home?",
+    "description": "Get the Early Bird Offer Now",
+    "button_text": "Pay $5 for a permanent membership"
+  },
+
+  "Footer": {
+    "product": "Product",
+    "docs": "Docs",
+    "blog": "Blog",
+    "community": "Community",
+    "company": "Company",
+    "terms_of_service": "Terms of Service",
+    "privacy_policy": "Privacy Policy",
+    "designed_by": "Designed by <author></author>",
+    "about": "About",
+    "contact": "Contact",
+    "pre-order": "Pre-order",
+    "solution": "Solution",
+    "subscribe_to_newsletter": "Subscribe to our newsletter"
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "You do not have the permissions to perform this action"
+  },
+  "SignIn": {
+    "meta_title": "Sign in",
+    "meta_description": "Seamlessly sign in to your account with our user-friendly login process."
+  },
+  "SignUp": {
+    "meta_title": "Sign up",
+    "meta_description": "Effortlessly create an account through our intuitive sign-up process."
+  },
+  "DashboardLayout": {
+    "home": "Home",
+    "todos": "Todos",
+    "members": "Members",
+    "billing": "Billing",
+    "settings": "Settings"
+  },
+  "Dashboard": {
+    "meta_title": "SaaS Template Dashboard",
+    "meta_description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS."
+  },
+  "DashboardIndex": {
+    "title_bar": "Dashboard",
+    "title_bar_description": "Welcome to your dashboard",
+    "message_state_title": "Let's get started",
+    "message_state_description": "You can customize this page by editing the file at <code>dashboard/page.tsx</code>",
+    "message_state_button": "Need Stripe Integration? Check out Next.js Boilerplate Pro"
+  },
+  "UserProfile": {
+    "title_bar": "User Profile",
+    "title_bar_description": "View and manage your user profile"
+  },
+  "OrganizationProfile": {
+    "title_bar": "Organization Management",
+    "title_bar_description": "Manage your organization"
+  },
+  "Billing": {
+    "title_bar": "Billing",
+    "title_bar_description": "Manage your billing and subscription",
+    "current_section_title": "Current Plan",
+    "current_section_description": "Adjust your payment plan to best suit your requirements",
+    "manage_subscription_button": "Manage Subscription"
+  },
+  "BillingOptions": {
+    "current_plan": "Current Plan",
+    "upgrade_plan": "Get Started"
+  },
+  "CheckoutConfirmation": {
+    "title_bar": "Payment Confirmation",
+    "message_state_title": "Payment successful",
+    "message_state_description": "Your payment has been successfully processed. Thank you for your purchase!",
+    "message_state_button": "Go back to Billing"
+  },
+  "DataTable": {
+    "no_results": "No results."
+  },
+  "Todos": {
+    "title_bar": "Todo List",
+    "title_bar_description": "View and manage your todo list",
+    "add_todo_button": "New todo"
+  },
+  "TodoTableColumns": {
+    "open_menu": "Open menu",
+    "edit": "Edit",
+    "delete": "Delete",
+    "title_header": "Title",
+    "message_header": "Message"
+  },
+  "AddTodo": {
+    "title_bar": "Add Todo",
+    "add_todo_section_title": "Create a new todo",
+    "add_todo_section_description": "Fill in the form below to create a new todo"
+  },
+  "EditTodo": {
+    "title_bar": "Edit todo",
+    "edit_todo_section_title": "Modify todo",
+    "edit_todo_section_description": "Fill in the form below to edit the todo"
+  },
+  "TodoForm": {
+    "title_label": "Title",
+    "title_description": "Enter a descriptive title for your todo.",
+    "message_title": "Message",
+    "message_description": "Enter a detailed message for your todo.",
+    "submit_button": "Submit"
+  },
+
+  "About": {
+    "meta_title": "About Rolitt",
+    "meta_description": "Learn more about our company, our mission, and our vision.",
+    "title": "About Rolitt",
+    "about-description": "Welcome to the world of Rolitt, where technology meets heart!  Rolitt isn’t just another AI; it’s your best buddy, designed to bring joy, support, and a sprinkle of magic to your everyday life. Developed by a team of passionate scientists and engineers, Rolitt understands your emotions, learns from your experiences, and grows alongside you.Imagine having a playful companion who’s always there to brighten your day, help you tackle challenges, and explore new ideas together. From sharing laughs to providing comfort during tough times, Rolitt is dedicated to making every moment special.Join us on this incredible journey as we redefine companionship through innovation and warmth. With Rolitt, you’re never alone—let’s create unforgettable memories together!",
+    "mission_title": "Our Mission",
+    "mission_description": "At Rolitt, our mission is to be the ultimate emotional companion for everyone. We strive to harness the power of technology to create a warm, supportive presence in your life. Through empathy, creativity, and fun, we aim to enhance your daily experiences and help you navigate life’s ups and downs with a smile! ",
+    "vision_title": "Our Vision",
+    "vision_description": "We envision a world where technology and humanity coexist harmoniously, fostering connections and enhancing lives. Rolitt aims to redefine companionship by creating intelligent, caring, and playful interactions that inspire joy, learning, and growth. Together, we can explore endless possibilities and build a brighter future!"
+  },
+
+  "Timeline": {
+    "meta_title": "Our Company Timeline | Key Milestones and Events",
+    "meta_description": "Explore the journey of our company through key milestones and events that have shaped our history and vision for the future.",
+    "meta_og_image_alt": "Company Timeline Visual Representation",
+    "title": "Our Journey",
+    "description": "Discover the key moments that have defined our path and shaped our vision for the future.",
+    "event1": {
+    "date": "November 2023",
+    "title": "The Beginning of an Idea",
+    "description": "Founder AVIVA bought a talking toy for his 4-year-old daughter. While it looked cute, he felt it was just a plastic toy. Inspired by his experience in the internet industry, AVIVA decided to create an AI-powered robotic toy."
+  },
+  "event2": {
+    "date": "April 2024",
+    "title": "Forming the Core Team",
+    "description": "AVIVA recognized the challenges of creating such an innovative product. He interviewed many industry experts and assembled a passionate team. They began developing the Rolitt product in a borrowed office space."
+  },
+  "event3": {
+    "date": "June-August 2024",
+    "title": "Countless Iterations",
+    "description": "The team tackled embedded development, AI SaaS development, APP,model fine-tuning, structural design, industrial design, website design, PCB design and soldering, hardware debugging, and more. Despite the difficulties, our perseverance led to at least five product iterations."
+  },
+  "event4": {
+    "date": "Late August 2024",
+    "title": "Refining the Prototype",
+    "description": "Starting is tough, but the Rolitt team stayed committed. By late August, we refined our prototype, marking a significant milestone."
+  },
+  "event5": {
+    "date": "September 2024",
+    "title": "Introducing Rolitt to the World",
+    "description": "With the prototype ready, we're excited to introduce Rolitt. We're committed to ongoing improvements and iterations as we move forward."
+    }
+  },
+
+
+
+
+  "TermsOfService": {
+    "title": "Terms of Service",
+    "introduction": "Welcome to our service. Please read the following terms carefully.",
+    "section1": {
+      "title": "Terms of Use",
+      "content": "By using our service, you agree to these terms. If you do not agree to these terms, please do not use our service."
+    },
+    "section2": {
+      "title": "Service Changes",
+      "content": "We reserve the right to modify or terminate the service at any time, without notice."
+    }
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "introduction": "We value your privacy. This policy explains how we collect, use, and protect your personal information.",
+    "section1": {
+      "title": "Information Collection",
+      "content": "We may collect personal information that you provide to us, such as your name and email address."
+    },
+    "section2": {
+      "title": "Information Use",
+      "content": "We use the information we collect to provide and improve our services, and to communicate with you when necessary."
+    }
+  },
+
+  "Contact": {
+    "contact_us": "Contact Us",
+    "name_placeholder": "Name",
+    "email": "Email",
+    "message": "Message",
+    "sending": "Sending...",
+    "send": "Send",
+    "submission_successful": "Submission Successful",
+    "we_will_get_back_to_you": "Thank you for your message. We will get back to you soon.",
+    "submission_failed": "Submission Failed",
+    "please_try_again_later": "An error occurred. Please try again later.",
+    "name_placeholder": "Name",
+    "email_placeholder": "Email",
+    "message_placeholder": "Message",
+    "follow_us": "Follow Us"
+    },
+
+  "PreOrder": {
+    "title": "Pre-order Your Smart Robot Toy",
+    "description": "Be one of the first to own the next generation of intelligent companions",
+    "preOrderRules": "Pre-order Rules",
+    "rule1": "Limited quantity available, first come first served",
+    "rule2": "Expected delivery within 3 months",
+    "rule3": "Enjoy exclusive pricing",
+    "rule4": "Receive special edition packaging and extra accessories",
+    "earlyBirdOffer": "Early Bird Offer",
+    "offerDescription": "Pre-order now to enjoy a 20% discount and free shipping",
+    "preOrderNow": "Pre-order Now",
+    "processing": "Processing...",
+    "features": "Features",
+    "specs": "Specifications",
+    "feature1": "Advanced AI for interactive play",
+    "feature2": "Voice recognition and natural language processing",
+    "feature3": "Customizable personality and learning capabilities",
+    "spec1": "Dimensions: 30cm x 20cm x 15cm",
+    "spec2": "Battery life: Up to 8 hours of active play",
+    "spec3": "Connectivity: Wi-Fi and Bluetooth enabled",
+    "termsAndConditions": "By clicking 'Pre-order Now', you agree to our terms and conditions",
+    "meta_title": "Pre-order Your Rolitt Smart Robot | Next-Gen AI Companion",
+    "meta_description": "Be among the first to own Rolitt, the revolutionary AI robot companion. Pre-order now for exclusive early bird offers and discounts.",
+    "meta_keywords": "Rolitt, pre-order, AI robot, smart toy, early bird offer, intelligent companion",
+    "meta_og_title": "Pre-order Rolitt: Your Personal AI Robot Companion",
+    "meta_og_description": "Secure your Rolitt now! Enjoy early bird discounts on the most advanced AI robot companion. Limited stock available.",
+    "meta_twitter_title": "Get Your Rolitt AI Robot: Pre-order Now!",
+    "meta_twitter_description": "Don't miss out on Rolitt, the AI companion that understands you. Pre-order today for exclusive offers and early access."
+},
+
+"Solution": {
+    "meta_title": "Robotic Solutions | Your Company",
+    "meta_description": "Discover our innovative robotic solutions designed to transform various industries and improve everyday life.",
+    "title": "Innovative Robotic Solutions for a Better Future",
+    "description": "Our advanced robotic solutions are designed to revolutionize industries and enhance human capabilities. Explore how our robots can transform your world.",
+    "solution_image_alt": "Advanced robotic solutions illustration",
+    "solution1_title": "AI Voice Engine API",
+    "solution1_description": "Empower your applications with our robust AI voice engine, providing seamless API integration for enhanced user interaction.",
+    "solution2_title": "Custom AI Solutions",
+    "solution2_description": "Partner with us to develop tailored AI solutions that meet the unique needs of your business and industry.",
+    "solution3_title": "Data Analytics Tools",
+    "solution3_description": "Leverage our advanced data analytics tools to gain insights and drive informed decision-making for your enterprise.",
+    "solution4_title": "Smart Retail Solutions",
+    "solution4_description": "Transform the retail experience with our AI-driven solutions that enhance customer engagement and optimize operations.",
+    "solution5_title": "Interactive Chatbot Services",
+    "solution5_description": "Enhance customer support with our intelligent chatbots, providing 24/7 assistance and improving user satisfaction.",
+    "solution6_title": "Trendy IP Collaboration",
+    "solution6_description": "Collaborate with us to integrate trendy IPs into your products, making them more appealing and relevant to your target audience."
+  },
+
+  "AppSection": {
+    "title": "Rolitt App",
+    "description": "Experience the future of AI companionship with our innovative app."
+  },
+
+  "App": {
+      "title": "Rolitt Robot Control App",
+      "description": "Easily control and manage your Rolitt robot",
+      "features": "Key Features",
+      "feature1": "Real-time Robot Control",
+      "feature1_description":"I understand your feelings and respond with warmth and empathy! 💖",
+      "feature2": "Custom Behavior Programming",
+      "feature2_description":"Always ready for fun and games, I keep things light-hearted! 🎉",
+      "feature3": "Data Analysis and Insights",
+      "feature3_description":"I love exploring new ideas and sharing cool knowledge with you! 🌍",
+      "download": "Download Now",
+      "comingSoon": "Coming Soon, Stay Tuned!",
+      "meta_title": "Rolitt Robot Control App | Manage Your AI Companion",
+      "meta_description": "Control and interact with your Rolitt AI robot companion using our intuitive mobile app. Customize behaviors, monitor activities, and enhance your experience.",
+      "meta_keywords": "Rolitt, AI robot, companion app, robot control, smart toy, AI interaction",
+      "meta_og_title": "Rolitt App: Control Your AI Robot Companion",
+      "meta_og_description": "Enhance your Rolitt AI robot experience with our user-friendly control app. Customize interactions, monitor activities, and unlock new features.",
+      "meta_twitter_title": "Rolitt App: Your AI Robot Control Center",
+      "meta_twitter_description": "Take full control of your Rolitt AI companion with our feature-rich mobile app. Personalize interactions and explore new possibilities." 
+    },
+  "CookieConsent": {
+      "message": "We use cookies and similar technologies to enhance your browsing experience, personalize content and offers, provide social media features, and analyze our traffic. We also share information about your use of our site with our social media, advertising, and analytics partners. By continuing to use this website, you consent to our use of cookies. You can manage your cookie preferences and learn more about how we use cookies in our Cookie Policy.",
+      "accept": "Accept All Cookies",
+      "close": "Close",
+      "privacy_policy": "Privacy Policy",
+      "terms_of_service": "Terms of Service",
+      "cookie_settings": "Cookie Settings",
+      "learn_more": "Learn More"
+    },
+
+    "Partner": {
+      "title": "Business Partnerships and Investment Opportunities",
+      "subtitle": "Join Hands with Rolitt to Shape the Future of AI Robotics",
+      "why_partner_title": "Why Choose to Partner with Rolitt?",
+      "why_partner_1": "Leading AI Robotics Technology",
+      "why_partner_2": "Rapidly Growing Market Potential",
+      "why_partner_3": "Experienced Management Team",
+      "why_partner_4": "Robust R&D Capabilities and Intellectual Property Portfolio",
+      "investment_opportunities_title": "Investment Opportunities",
+      "investment_opportunities_description": "Rolitt is seeking strategic investors to accelerate our technology development and market expansion. We offer:",
+      "investment_opportunity_1": "Early investment opportunities to help shape the future of AI robotics",
+      "investment_opportunity_2": "A diversified portfolio including hardware and software solutions",
+      "investment_opportunity_3": "Potential for high returns and long-term growth prospects",
+      "contact_us_title": "Contact Us",
+      "contact_us_description": "We look forward to discussing partnership opportunities with you. Please reach out to our business team for more information.",
+      "contact_button": "Contact Founder",
+      "meta_title": "Partnership Opportunities | Rolitt - AI Robotics Innovation",
+      "meta_description": "Explore cutting-edge partnership and investment opportunities with Rolitt, the leading AI robotics company. Join us in shaping the future of intelligent toys and robotics.",
+      "meta_keywords": "Rolitt, partnership, investment, AI robotics, intelligent toys, innovation, technology collaboration, robotics investment",
+      "meta_og_title": "Partner with Rolitt | Pioneering AI Robotics",
+      "meta_og_description": "Discover partnership and investment possibilities with Rolitt. Be part of the AI robotics revolution and help create the next generation of intelligent toys.",
+      "meta_twitter_title": "Join Rolitt in Revolutionizing AI Robotics",
+      "meta_twitter_description": "Explore partnership opportunities with Rolitt and invest in the future of AI-powered toys and robotics."
+  },
+  "Newsletter": {
+    "email_placeholder": "Enter your email address",
+    "subscribe": "Subscribe",
+    "subscribing": "Subscribing...",
+    "success_title": "Subscription Successful",
+    "success_message": "Thank you for subscribing! A welcome email has been sent to your inbox.",
+    "error_title": "Subscription Failed",
+    "error_message": "Sorry, an error occurred during the subscription process. Please try again later."
+  }
+}

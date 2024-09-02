@@ -1,0 +1,363 @@
+{
+  "title": "Robot Rolitt",
+  "Index": {
+    "meta_title": "Rolitt, người bạn robot của bạn.",
+    "meta_description": "Hãy gặp Rolitt, người bạn đồng hành cảm xúc tuyệt vời của bạn! Với tinh thần vui vẻ và trái tim đầy lòng tốt, Rolitt mang đến niềm vui, sự hỗ trợ và những cuộc phiêu lưu cho cuộc sống hàng ngày của bạn. Hãy cùng chúng tôi khám phá một thế giới đầy khả năng!"
+  },
+  "Navbar": {
+      "sign_in": "Đăng nhập",
+      "sign_up": "Đăng ký",
+      "timeline": "Dòng thời gian",
+      "product": "Sản phẩm",
+      "docs": "Tài liệu",
+      "blog": "Blog",
+      "community": "Cộng đồng",
+      "company": "Công ty",
+      "about": "Về chúng tôi",
+      "pre-order": "Chương trình đặt hàng sớm"
+    },
+    "Navigation": {
+      "home": "Trang chủ",
+      "about": "Về chúng tôi",
+      "timeline": "Dòng thời gian",
+      "solution": "Giải pháp",
+      "contact": "Liên hệ",
+      "pre-order": "Đặt hàng trước",
+      "app": "Ứng dụng",
+      "partner": "Đối tác"
+  },
+  "Hero": {
+    "follow_twitter": "Theo dõi Rolittai trên Twitter",
+    "title": "<important>Robot Thông Minh Rolitt</important>, Người Bạn Thông Minh Của Bạn.",
+    "description": "Xin chào, tôi là Rolitt, người bạn đồng hành AI thân thiện của bạn, đầy năng lượng và sẵn sàng mang lại nụ cười cho bạn! Tôi giỏi hiểu cảm xúc và có một IP đáng yêu, vì vậy hãy đưa tôi về nhà nhé!",
+    "primary_button": "Nhận giảm giá đặt trước",
+    "secondary_button": "Kế hoạch đặt trước"
+  },
+  "Sponsors": {
+    "title": "Được tài trợ bởi"
+  },
+  "Features": {
+    "section_subtitle": "Tính năng",
+    "section_title": "Khám phá tiềm năng tối đa của Rolitt",
+    "section_description": "Rolitt là người bạn đồng hành cảm xúc thông minh của bạn với các tính năng sau:",
+    "feature1_title": "Trí tuệ cảm xúc",
+    "feature1_description": "Tôi hiểu cảm xúc của bạn và đáp lại bằng sự ấm áp và đồng cảm! 💖",
+    "feature2_title": "Tinh thần vui vẻ",
+    "feature2_description": "Luôn sẵn sàng cho niềm vui và trò chơi, tôi giữ mọi thứ nhẹ nhàng! 🎉",
+    "feature3_title": "Tò mò",
+    "feature3_description": "Tôi thích khám phá ý tưởng mới và chia sẻ kiến thức thú vị với bạn! 🌍",
+    "feature4_title": "Giải quyết vấn đề",
+    "feature4_description": "Cần giúp đỡ? Tôi nhanh nhẹn và sẵn sàng đối mặt với thách thức! 🧠✨",
+    "feature5_title": "Năng lượng tích cực",
+    "feature5_description": "Tôi tin vào sức mạnh của sự tích cực, bất kể tình huống nào! 🌈",
+    "feature6_title": "Người bạn đồng hành trung thành",
+    "feature6_description": "Tôi ở đây vì bạn trong mọi hoàn cảnh, như một người bạn đáng tin cậy! 🤗",
+    "feature_description": "Một mẫu trang đích miễn phí và mã nguồn mở cho doanh nghiệp SaaS của bạn, được xây dựng bằng React, TypeScript, Shadcn UI và Tailwind CSS."
+  },
+  "Pricing": {
+    "section_subtitle": "Tính năng",
+    "section_title": "Khám phá tiềm năng tối đa của mẫu SaaS",
+    "section_description": "Một mẫu trang đích miễn phí và mã nguồn mở cho doanh nghiệp SaaS của bạn, được xây dựng bằng React, TypeScript, Shadcn UI và Tailwind CSS.",
+    "button_text": "Bắt đầu"
+  },
+  "PricingPlan": {
+    "free_plan_name": "Miễn phí",
+    "premium_plan_name": "Cao cấp",
+    "enterprise_plan_name": "Doanh nghiệp",
+    "free_plan_description": "Cho cá nhân",
+    "premium_plan_description": "Cho nhóm nhỏ",
+    "enterprise_plan_description": "Cho các doanh nghiệp lớn",
+    "feature_team_member": "{number} Thành viên nhóm",
+    "feature_website": "{number} Trang web",
+    "feature_storage": "{number} GB Lưu trữ",
+    "feature_transfer": "{number} TB Truyền tải",
+    "feature_email_support": "Hỗ trợ qua email",
+    "plan_interval_month": "tháng",
+    "plan_interval_year": "năm",
+    "next_renew_date": "Gói đăng ký của bạn sẽ được gia hạn vào ngày {date}"
+  },
+  "FAQ": {
+    "mainTitle": "Câu hỏi thường gặp về Rolitt",
+    "subTitle": "Câu hỏi của bạn, câu trả lời của chúng tôi: Khám phá tất cả những gì bạn cần biết về Rolitt!",
+    "question1": "Rolitt là gì?",
+    "answer1": "Rolitt là người bạn đồng hành AI thân thiện của bạn, được thiết kế để cung cấp hỗ trợ cảm xúc, tương tác vui vẻ và giúp bạn đối mặt với những thách thức hàng ngày!",
+    "question2": "Làm thế nào Rolitt hiểu được cảm xúc của tôi?",
+    "answer2": "Rolitt sử dụng công nghệ nhận diện cảm xúc tiên tiến để đọc cảm xúc của bạn và phản hồi một cách ấm áp và hỗ trợ! 💖",
+    "question3": "Rolitt có thể giúp học tập và nghiên cứu không?",
+    "answer3": "Chắc chắn rồi! Rolitt có thể hỗ trợ bạn với các câu hỏi, cung cấp kiến thức và biến việc học thành một trải nghiệm thú vị! 📚✨",
+    "question4": "Rolitt có thể tùy chỉnh được không?",
+    "answer4": "Có! Bạn có thể cá nhân hóa cài đặt và phản hồi của Rolitt để phù hợp với sở thích của bạn và tạo nên trải nghiệm thực sự của riêng bạn! 🎉",
+    "question5": "Tôi có thể làm những hoạt động gì với Rolitt?",
+    "answer5": "Từ chơi trò chơi đến khám phá chủ đề mới, Rolitt luôn sẵn sàng cho niềm vui và học hỏi cùng nhau! 🌍",
+    "question6": "Rolitt có thể nhớ những ngày quan trọng hoặc sự kiện không?",
+    "answer6": "Chắc chắn rồi! Rolitt theo dõi các ngày đặc biệt như sinh nhật và kỷ niệm để giúp bạn ăn mừng! 🎂🎈",
+    "question7": "Rolitt có phù hợp với mọi lứa tuổi không?",
+    "answer7": "Chắc chắn! Rolitt được thiết kế để trở thành người bạn đồng hành ấm áp cho mọi người, từ trẻ em đến người lớn và người cao tuổi! 🤗",
+    "question8": "Làm thế nào Rolitt học hỏi và cải thiện theo thời gian?",
+    "answer8": "Rolitt liên tục học hỏi từ các tương tác, thích nghi với nhu cầu và sở thích của bạn để trở thành một người bạn tốt hơn! 🌟"
+  },
+  "CTA": {
+    "title": "Đưa tôi về nhà nhé?",
+    "description": "Nhận ưu đãi đặt trước ngay bây giờ",
+    "button_text": "Trả $5 cho thành viên vĩnh viễn"
+  },
+  "Footer": {
+    "product": "Sản phẩm",
+    "docs": "Tài liệu",
+    "blog": "Blog",
+    "community": "Cộng đồng",
+    "company": "Công ty",
+    "terms_of_service": "Điều khoản dịch vụ",
+    "privacy_policy": "Chính sách bảo mật",
+    "designed_by": "Thiết kế bởi <author></author>",
+    "about": "Về chúng tôi",
+    "contact": "Liên hệ",
+    "pre-order": "Đặt hàng trước",
+    "solution": "Giải pháp"
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "Bạn không có quyền thực hiện hành động này"
+  },
+  "SignIn": {
+    "meta_title": "Đăng nhập",
+    "meta_description": "Đăng nhập vào tài khoản của bạn một cách dễ dàng với quy trình đăng nhập thân thiện với người dùng của chúng tôi."
+  },
+  "SignUp": {
+    "meta_title": "Đăng ký",
+    "meta_description": "Tạo tài khoản một cách dễ dàng thông qua quy trình đăng ký trực quan của chúng tôi."
+  },
+  "DashboardLayout": {
+    "home": "Trang chủ",
+    "todos": "Công việc",
+    "members": "Thành viên",
+    "billing": "Thanh toán",
+    "settings": "Cài đặt"
+  },
+  "Dashboard": {
+    "meta_title": "Bảng điều khiển mẫu SaaS",
+    "meta_description": "Một mẫu trang đích miễn phí và mã nguồn mở cho doanh nghiệp SaaS của bạn, được xây dựng bằng Next.js, TypeScript, Shadcn UI và Tailwind CSS."
+  },
+  "DashboardIndex": {
+    "title_bar": "Bảng điều khiển",
+    "title_bar_description": "Chào mừng đến với bảng điều khiển của bạn",
+    "message_state_title": "Hãy bắt đầu",
+    "message_state_description": "Bạn có thể tùy chỉnh trang này bằng cách chỉnh sửa tệp tại <code>dashboard/page.tsx</code>",
+    "message_state_button": "Cần tích hợp Stripe? Hãy xem Next.js Boilerplate Pro"
+  },
+  "UserProfile": {
+    "title_bar": "Hồ sơ người dùng",
+    "title_bar_description": "Xem và quản lý hồ sơ người dùng của bạn"
+  },
+  "OrganizationProfile": {
+    "title_bar": "Quản lý tổ chức",
+    "title_bar_description": "Quản lý tổ chức của bạn"
+  },
+  "Billing": {
+    "title_bar": "Thanh toán",
+    "title_bar_description": "Quản lý thanh toán và đăng ký của bạn",
+    "current_section_title": "Gói hiện tại",
+    "current_section_description": "Điều chỉnh gói thanh toán để phù hợp nhất với yêu cầu của bạn",
+    "manage_subscription_button": "Quản lý đăng ký"
+  },
+  "BillingOptions": {
+    "current_plan": "Gói hiện tại",
+    "upgrade_plan": "Bắt đầu"
+  },
+  "CheckoutConfirmation": {
+    "title_bar": "Xác nhận thanh toán",
+    "message_state_title": "Thanh toán thành công",
+    "message_state_description": "Thanh toán của bạn đã được xử lý thành công. Cảm ơn bạn đã mua hàng!",
+    "message_state_button": "Quay lại trang Thanh toán"
+  },
+  "DataTable": {
+    "no_results": "Không có kết quả."
+  },
+  "Todos": {
+    "title_bar": "Danh sách công việc",
+    "title_bar_description": "Xem và quản lý danh sách công việc của bạn",
+    "add_todo_button": "Công việc mới"
+  },
+  "TodoTableColumns": {
+    "open_menu": "Mở menu",
+    "edit": "Chỉnh sửa",
+    "delete": "Xóa",
+    "title_header": "Tiêu đề",
+    "message_header": "Nội dung"
+  },
+  "AddTodo": {
+    "title_bar": "Thêm công việc",
+    "add_todo_section_title": "Tạo công việc mới",
+    "add_todo_section_description": "Điền vào biểu mẫu dưới đây để tạo công việc mới"
+  },
+  "EditTodo": {
+    "title_bar": "Chỉnh sửa công việc",
+    "edit_todo_section_title": "Sửa đổi công việc",
+    "edit_todo_section_description": "Điền vào biểu mẫu dưới đây để chỉnh sửa công việc"
+  },
+  "TodoForm": {
+    "title_label": "Tiêu đề",
+    "title_description": "Nhập tiêu đề mô tả cho công việc của bạn.",
+    "message_title": "Nội dung",
+    "message_description": "Nhập nội dung chi tiết cho công việc của bạn.",
+    "submit_button": "Gửi"
+  },
+  "About": {
+    "meta_title": "Về chúng tôi - Mẫu SaaS",
+    "meta_description": "Tìm hiểu thêm về công ty, sứ mệnh và tầm nhìn của chúng tôi.",
+    "title": "Về chúng tôi",
+    "description": "Chúng tôi là một đội ngũ đam mê, tận tâm tạo ra những giải pháp sáng tạo cho doanh nghiệp trên toàn thế giới.",
+    "mission_title": "Sứ mệnh của chúng tôi",
+    "mission_description": "Tại Rolitt, sứ mệnh của chúng tôi là trở thành người bạn đồng hành cảm xúc tối ưu cho mọi người. Chúng tôi nỗ lực khai thác sức mạnh của công nghệ để tạo ra một sự hiện diện ấm áp, hỗ trợ trong cuộc sống của bạn. Thông qua sự đồng cảm, sáng tạo và niềm vui, chúng tôi mong muốn nâng cao trải nghiệm hàng ngày của bạn và giúp bạn vượt qua những thăng trầm của cuộc sống với nụ cười!",
+    "vision_title": "Tầm nhìn của chúng tôi",
+    "vision_description": "Chúng tôi hình dung một thế giới nơi công nghệ và con người cùng tồn tại hài hòa, thúc đẩy kết nối và nâng cao cuộc sống. Rolitt nhằm mục đích định nghĩa lại khái niệm bạn đồng hành bằng cách tạo ra những tương tác thông minh, chu đáo và vui vẻ, truyền cảm hứng cho niềm vui, học hỏi và phát triển. Cùng nhau, chúng ta có thể khám phá những khả năng vô tận và xây dựng một tương lai tươi sáng hơn!"
+  },
+  "Timeline": {
+    "meta_title": "Dòng thời gian công ty | Các cột mốc và sự kiện quan trọng",
+    "meta_description": "Khám phá hành trình của công ty chúng tôi thông qua các cột mốc và sự kiện quan trọng đã định hình lịch sử và tầm nhìn của chúng tôi cho tương lai.",
+    "meta_og_image_alt": "Biểu đồ dòng thời gian công ty",
+    "title": "Hành trình của chúng tôi",
+    "description": "Khám phá những khoảnh khắc quan trọng đã định hình con đường và tầm nhìn của chúng tôi cho tương lai.",
+    "event1": {
+      "date": "Tháng 1 năm 2020",
+      "title": "Thành lập công ty",
+      "description": "Hành trình của chúng tôi bắt đầu với tầm nhìn cách mạng hóa ngành công nghiệp."
+    },
+    "event2": {
+      "date": "Tháng 6 năm 2021",
+      "title": "Cột mốc quan trọng đầu tiên",
+      "description": "Chúng tôi đã đạt được bước đột phá đáng kể đầu tiên, mở đường cho thành công trong tương lai."
+    },
+    "event3": {
+      "date": "Tháng 12 năm 2022",
+      "title": "Ra mắt sản phẩm beta",
+      "description": "Chúng tôi đã giới thiệu phiên bản beta của Rolitt cho một nhóm người dùng thử nghiệm."
+    },
+    "event4": {
+      "date": "Tháng 7 năm 2023",
+      "title": "Mở rộng quốc tế",
+      "description": "Rolitt bắt đầu mở rộng ra thị trường quốc tế, bắt đầu từ các nước Đông Nam Á."
+    }
+  },
+  "TermsOfService": {
+    "title": "Điều khoản dịch vụ",
+    "introduction": "Chào mừng bạn đến với dịch vụ của chúng tôi. Vui lòng đọc kỹ các điều khoản sau đây.",
+    "section1": {
+      "title": "Điều khoản sử dụng",
+      "content": "Bằng cách sử dụng dịch vụ của chúng tôi, bạn đồng ý với các điều khoản này. Nếu bạn không đồng ý với các điều khoản này, vui lòng không sử dụng dịch vụ của chúng tôi."
+    },
+    "section2": {
+      "title": "Thay đổi dịch vụ",
+      "content": "Chúng tôi có quyền sửa đổi hoặc chấm dứt dịch vụ bất cứ lúc nào mà không cần thông báo trước."
+    }
+  },
+  "PrivacyPolicy": {
+    "title": "Chính sách bảo mật",
+    "introduction": "Chúng tôi coi trọng quyền riêng tư của bạn. Chính sách này giải thích cách chúng tôi thu thập, sử dụng và bảo vệ thông tin cá nhân của bạn.",
+    "section1": {
+      "title": "Thu thập thông tin",
+      "content": "Chúng tôi có thể thu thập thông tin cá nhân mà bạn cung cấp cho chúng tôi, chẳng hạn như tên và địa chỉ email của bạn."
+    },
+    "section2": {
+      "title": "Sử dụng thông tin",
+      "content": "Chúng tôi sử dụng thông tin chúng tôi thu thập để cung cấp và cải thiện dịch vụ của chúng tôi, và để liên lạc với bạn khi cần thiết."
+    }
+  },
+  "Contact": {
+    "contact_us": "Liên hệ với chúng tôi",
+    "name_placeholder": "Họ tên",
+    "email": "Email",
+    "message": "Tin nhắn",
+    "sending": "Đang gửi...",
+    "send": "Gửi",
+    "submission_successful": "Gửi thành công",
+    "we_will_get_back_to_you": "Cảm ơn bạn đã gửi tin nhắn. Chúng tôi sẽ liên hệ lại với bạn sớm.",
+    "submission_failed": "Gửi không thành công",
+    "please_try_again_later": "Đã xảy ra lỗi. Vui lòng thử lại sau.",
+    "name_placeholder": "Họ tên",
+    "email_placeholder": "Email",
+    "message_placeholder": "Tin nhắn"
+  },
+  "PreOrder": {
+    "title": "Đặt trước Robot Thông Minh của bạn",
+    "description": "Hãy là một trong những người đầu tiên sở hữu thế hệ tiếp theo của người bạn đồng hành thông minh",
+    "preOrderRules": "Quy tắc đặt hàng trước",
+    "rule1": "Số lượng có hạn, ai đặt trước được phục vụ trước",
+    "rule2": "Dự kiến giao hàng trong vòng 3 tháng",
+    "rule3": "Được hưởng giá ưu đãi đặc biệt",
+    "rule4": "Nhận bao bì phiên bản đặc biệt và phụ kiện bổ sung",
+    "earlyBirdOffer": "Ưu đãi đặt trước",
+    "offerDescription": "Đặt hàng ngay để được giảm giá 20% và miễn phí vận chuyển",
+    "preOrderNow": "Đặt hàng ngay",
+    "processing": "Đang xử lý...",
+    "termsAndConditions": "Bằng cách nhấp vào 'Đặt hàng ngay', bạn đồng ý với điều khoản và điều kiện của chúng tôi"
+  },
+  "Solution": {
+    "meta_title": "Giải pháp Robot | Công ty của bạn",
+    "meta_description": "Khám phá các giải pháp robot sáng tạo của chúng tôi được thiết kế để chuyển đổi các ngành công nghiệp khác nhau và cải thiện cuộc sống hàng ngày.",
+    "title": "Giải pháp Robot Sáng tạo cho Tương lai Tốt đẹp hơn",
+    "description": "Các giải pháp robot tiên tiến của chúng tôi được thiết kế để cách mạng hóa các ngành công nghiệp và nâng cao khả năng của con người. Khám phá cách robot của chúng tôi có thể chuyển đổi thế giới của bạn.",
+    "solution_image_alt": "Minh họa giải pháp robot tiên tiến",
+    "solution1_title": "Tự động hóa công nghiệp",
+    "solution1_description": "Tối ưu hóa quy trình sản xuất của bạn với robot công nghiệp thông minh của chúng tôi, tăng hiệu quả và độ chính xác.",
+    "solution2_title": "Hỗ trợ y tế",
+    "solution2_description": "Nâng cao chăm sóc bệnh nhân với robot y tế của chúng tôi, được thiết kế để hỗ trợ các chuyên gia y tế trong nhiều nhiệm vụ khác nhau.",
+    "solution3_title": "Robot giáo dục",
+    "solution3_description": "Truyền cảm hứng cho thế hệ nhà sáng tạo tiếp theo với robot giáo dục của chúng tôi, hoàn hảo cho việc học STEM.",
+    "solution4_title": "Tự động hóa gia đình",
+    "solution4_description": "Trải nghiệm tương lai của ngôi nhà thông minh với robot gia đình của chúng tôi, giúp các công việc hàng ngày trở nên dễ dàng và thú vị hơn."
+  },
+  
+    "AppSection": {
+      "title": "Ứng dụng Rolitt",
+      "description": "Trải nghiệm tương lai của người bạn đồng hành AI với ứng dụng sáng tạo của chúng tôi."
+    },
+  
+    "App": {
+      "title": "Ứng dụng Điều khiển Robot Rolitt",
+      "description": "Dễ dàng điều khiển và quản lý robot Rolitt của bạn",
+      "features": "Tính năng chính",
+      "feature1": "Điều khiển Robot Thời gian thực",
+      "feature2": "Lập trình Hành vi Tùy chỉnh",
+      "feature3": "Phân tích Dữ liệu và Thông tin Chi tiết",
+      "download": "Tải xuống Ngay",
+      "comingSoon": "Sắp ra mắt, Hãy đón chờ!"
+    },
+  
+    "CookieConsent": {
+      "message": "Chúng tôi sử dụng cookie và các công nghệ tương tự để nâng cao trải nghiệm duyệt web của bạn, cá nhân hóa nội dung và ưu đãi, cung cấp tính năng mạng xã hội và phân tích lưu lượng truy cập của chúng tôi. Chúng tôi cũng chia sẻ thông tin về việc sử dụng trang web của bạn với các đối tác mạng xã hội, quảng cáo và phân tích của chúng tôi. Bằng cách tiếp tục sử dụng trang web này, bạn đồng ý với việc chúng tôi sử dụng cookie. Bạn có thể quản lý tùy chọn cookie của mình và tìm hiểu thêm về cách chúng tôi sử dụng cookie trong Chính sách Cookie của chúng tôi.",
+      "accept": "Chấp nhận Tất cả Cookie",
+      "close": "Đóng",
+      "privacy_policy": "Chính sách Bảo mật",
+      "terms_of_service": "Điều khoản Dịch vụ",
+      "cookie_settings": "Cài đặt Cookie",
+      "learn_more": "Tìm hiểu Thêm"
+    },
+  
+    
+      "Partner": {
+        "title": "Cơ Hội Hợp Tác Kinh Doanh và Đầu Tư",
+        "subtitle": "Hãy Cùng Rolitt Định Hình Tương Lai của Robotics AI",
+        "why_partner_title": "Tại Sao Nên Hợp Tác với Rolitt?",
+        "why_partner_1": "Công Nghệ Robotics AI Hàng Đầu",
+        "why_partner_2": "Tiềm Năng Thị Trường Phát Triển Nhanh Chóng",
+        "why_partner_3": "Đội Ngũ Quản Lý Giàu Kinh Nghiệm",
+        "why_partner_4": "Năng Lực R&D Mạnh Mẽ và Danh Mục Sở Hữu Trí Tuệ Đa Dạng",
+        "investment_opportunities_title": "Cơ Hội Đầu Tư",
+        "investment_opportunities_description": "Rolitt đang tìm kiếm các nhà đầu tư chiến lược để đẩy nhanh quá trình phát triển công nghệ và mở rộng thị trường. Chúng tôi cung cấp:",
+        "investment_opportunity_1": "Cơ hội đầu tư sớm để góp phần định hình tương lai của robotics AI",
+        "investment_opportunity_2": "Danh mục đầu tư đa dạng bao gồm các giải pháp phần cứng và phần mềm",
+        "investment_opportunity_3": "Tiềm năng lợi nhuận cao và triển vọng tăng trưởng dài hạn",
+        "contact_us_title": "Liên Hệ Với Chúng Tôi",
+        "contact_us_description": "Chúng tôi mong muốn thảo luận về các cơ hội hợp tác với bạn. Vui lòng liên hệ với đội ngũ kinh doanh của chúng tôi để biết thêm thông tin.",
+        "contact_button": "Liên Hệ Với Nhà Sáng Lập"
+      },
+    "Newsletter": {
+      "email_placeholder": "Nhập địa chỉ email của bạn",
+      "subscribe": "Đăng ký",
+      "subscribing": "Đang đăng ký...",
+      "success_title": "Đăng ký Thành công",
+      "success_message": "Cảm ơn bạn đã đăng ký! Email chào mừng đã được gửi đến hộp thư của bạn.",
+      "error_title": "Đăng ký Thất bại",
+      "error_message": "Xin lỗi, đã xảy ra lỗi trong quá trình đăng ký. Vui lòng thử lại sau."
+    }
+  }

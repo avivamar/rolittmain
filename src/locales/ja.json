@@ -1,0 +1,351 @@
+{
+  "title": "ロリットロボット",
+  "Index": {
+    "meta_title": "ロリット、あなたのロボットの友達。",
+    "meta_description": "ロリットに会いましょう、あなたの究極の感情的な仲間です！遊び心と優しさに満ちた心を持つロリットは、あなたの日常生活に喜び、サポート、そして冒険をもたらします。可能性の世界を一緒に探検しましょう！"
+  },
+  "Navbar": {
+    "sign_in": "ログイン",
+    "sign_up": "新規登録",
+    "timeline": "タイムライン",
+    "product": "製品",
+    "docs": "ドキュメント",
+    "blog": "ブログ",
+    "community": "コミュニティ",
+    "company": "会社概要",
+    "about": "私たちについて",
+    "pre-order": "先行予約プラン"
+  },
+  "Navigation": {
+    "home": "ホーム",
+    "about": "私たちについて",
+    "timeline": "タイムライン",
+    "solution": "ソリューション",
+    "app": "アプリ",
+    "contact": "お問い合わせ",
+    "pre-order": "先行予約"
+  },
+  "Hero": {
+    "follow_twitter": "ロリットAIをTwitterでフォロー",
+    "title": "<important>ロリット実体型知能ロボット</important>、あなたのスマートな友達。",
+    "description": "こんにちは、私はロリットです。あなたのフレンドリーなAIコンパニオンで、エネルギーに満ち溢れ、あなたの顔に笑顔をもたらす準備ができています！感情を理解するのが得意で、素敵なIPを持っているので、私を家に連れて帰ってください！",
+    "primary_button": "早期割引を受ける",
+    "secondary_button": "先行予約プラン"
+  },
+  "Sponsors": {
+    "title": "スポンサー"
+  },
+  "Features": {
+    "section_subtitle": "特徴",
+    "section_title": "ロリットの可能性を最大限に引き出す",
+    "section_description": "ロリットは以下の特徴を持つあなたの知的な感情的コンパニオンです：",
+    "feature1_title": "感情知能",
+    "feature1_description": "あなたの気持ちを理解し、温かさと共感を持って応答します！💖",
+    "feature2_title": "遊び心",
+    "feature2_description": "いつでも楽しく遊ぶ準備ができており、物事を軽やかに保ちます！🎉",
+    "feature3_title": "好奇心",
+    "feature3_description": "新しいアイデアを探求し、クールな知識をあなたと共有するのが大好きです！🌍",
+    "feature4_title": "問題解決能力",
+    "feature4_description": "助けが必要ですか？私は機敏で、チャレンジに立ち向かう準備ができています！🧠✨",
+    "feature5_title": "楽観的な雰囲気",
+    "feature5_description": "どんな状況でもポジティブな力を信じています！🌈",
+    "feature6_title": "忠実な仲間",
+    "feature6_description": "信頼できる相棒のように、良いときも悪いときもあなたのそばにいます！🤗",
+    "feature_description": "React、TypeScript、Shadcn UI、Tailwind CSSで構築された、SaaSビジネス向けの無料でオープンソースのランディングページテンプレート。"
+  },
+  "Pricing": {
+    "section_subtitle": "機能",
+    "section_title": "SaaSテンプレートの可能性を最大限に引き出す",
+    "section_description": "React、TypeScript、Shadcn UI、Tailwind CSSで構築された、SaaSビジネス向けの無料でオープンソースのランディングページテンプレート。",
+    "button_text": "始める"
+  },
+  "PricingPlan": {
+    "free_plan_name": "無料",
+    "premium_plan_name": "プレミアム",
+    "enterprise_plan_name": "エンタープライズ",
+    "free_plan_description": "個人向け",
+    "premium_plan_description": "小規模チーム向け",
+    "enterprise_plan_description": "業界リーダー向け",
+    "feature_team_member": "チームメンバー{number}人",
+    "feature_website": "ウェブサイト{number}個",
+    "feature_storage": "ストレージ{number}GB",
+    "feature_transfer": "転送量{number}TB",
+    "feature_email_support": "メールサポート",
+    "plan_interval_month": "月",
+    "plan_interval_year": "年",
+    "next_renew_date": "サブスクリプションは{date}に更新されます"
+  },
+  "FAQ": {
+    "mainTitle": "ロリットについてのよくある質問",
+    "subTitle": "あなたの質問、私たちの回答：ロリットについて知っておくべきことすべてを発見しましょう！",
+    "question1": "ロリットとは何ですか？",
+    "answer1": "ロリットは、感情的サポート、楽しい交流、日常の課題に取り組むのを助けるために設計されたフレンドリーなAIコンパニオンです！",
+    "question2": "ロリットはどのように私の感情を理解するのですか？",
+    "answer2": "ロリットは高度な感情認識技術を使用して、あなたの気持ちを読み取り、温かくサポーティブな方法で応答します！💖",
+    "question3": "ロリットは学習や勉強を手伝ってくれますか？",
+    "answer3": "もちろんです！ロリットは質問に答え、知識を提供し、勉強を楽しい経験にします！📚✨",
+    "question4": "ロリットはカスタマイズ可能ですか？",
+    "answer4": "はい！ロリットの設定や応答をあなたの好みに合わせてパーソナライズし、真にあなたのものにすることができます！🎉",
+    "question5": "ロリットとどんな活動ができますか？",
+    "answer5": "ゲームをしたり新しいトピックを探求したり、ロリットはいつでも一緒に楽しく学ぶ準備ができています！🌍",
+    "question6": "ロリットは重要な日付やイベントを覚えていられますか？",
+    "answer6": "もちろんです！ロリットは誕生日や記念日などの特別な日を追跡し、あなたのお祝いを手伝います！🎂🎈",
+    "question7": "ロリットはすべての年齢層に適していますか？",
+    "answer7": "間違いなく！ロリットは子供から大人、高齢者まで、すべての人の温かい仲間になるよう設計されています！🤗",
+    "question8": "ロリットは時間とともにどのように学習し改善しますか？",
+    "answer8": "ロリットは継続的に交流から学び、あなたのニーズや好みに適応して、さらに良い友達になっていきます！🌟"
+  },
+  "CTA": {
+    "title": "私を家に連れて帰りませんか？",
+    "description": "今すぐ先行予約オファーを受けましょう",
+    "button_text": "永久メンバーシップに5ドル支払う"
+  },
+  "Footer": {
+    "product": "製品",
+    "docs": "ドキュメント",
+    "blog": "ブログ",
+    "community": "コミュニティ",
+    "company": "会社概要",
+    "terms_of_service": "利用規約",
+    "privacy_policy": "プライバシーポリシー",
+    "designed_by": "デザイン：<author></author>",
+    "about": "私たちについて",
+    "contact": "お問い合わせ",
+    "pre-order": "先行予約",
+    "solution": "ソリューション"
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "この操作を実行する権限がありません"
+  },
+  "SignIn": {
+    "meta_title": "ログイン",
+    "meta_description": "ユーザーフレンドリーなログインプロセスで、シームレスにアカウントにサインインしましょう。"
+  },
+  "SignUp": {
+    "meta_title": "新規登録",
+    "meta_description": "直感的な新規登録プロセスで、簡単にアカウントを作成できます。"
+  },
+  "DashboardLayout": {
+    "home": "ホーム",
+    "todos": "タスク",
+    "members": "メンバー",
+    "billing": "請求",
+    "settings": "設定"
+  },
+  "Dashboard": {
+    "meta_title": "SaaSテンプレートダッシュボード",
+    "meta_description": "Next.js、TypeScript、Shadcn UI、Tailwind CSSで構築された、SaaSビジネス向けの無料でオープンソースのランディングページテンプレート。"
+  },
+  "DashboardIndex": {
+    "title_bar": "ダッシュボード",
+    "title_bar_description": "ダッシュボードへようこそ",
+    "message_state_title": "始めましょう",
+    "message_state_description": "<code>dashboard/page.tsx</code>ファイルを編集してこのページをカスタマイズできます",
+    "message_state_button": "Stripe統合が必要ですか？Next.js Boilerplate Proをチェックしてください"
+  },
+  "UserProfile": {
+    "title_bar": "ユーザープロフィール",
+    "title_bar_description": "ユーザープロフィールの表示と管理"
+  },
+  "OrganizationProfile": {
+    "title_bar": "組織管理",
+    "title_bar_description": "組織の管理"
+  },
+  "Billing": {
+    "title_bar": "請求",
+    "title_bar_description": "請求とサブスクリプションの管理",
+    "current_section_title": "現在のプラン",
+    "current_section_description": "要件に最適な支払いプランを調整する",
+    "manage_subscription_button": "サブスクリプション管理"
+  },
+  "BillingOptions": {
+    "current_plan": "現在のプラン",
+    "upgrade_plan": "始める"
+  },
+  "CheckoutConfirmation": {
+    "title_bar": "支払い確認",
+    "message_state_title": "支払い成功",
+    "message_state_description": "お支払いが正常に処理されました。ご購入ありがとうございます！",
+    "message_state_button": "請求ページに戻る"
+  },
+  "DataTable": {
+    "no_results": "結果がありません。"
+  },
+  "Todos": {
+    "title_bar": "タスクリスト",
+    "title_bar_description": "タスクリストの表示と管理",
+    "add_todo_button": "新しいタスク"
+  },
+  "TodoTableColumns": {
+    "open_menu": "メニューを開く",
+    "edit": "編集",
+    "delete": "削除",
+    "title_header": "タイトル",
+    "message_header": "メッセージ"
+  },
+  "AddTodo": {
+    "title_bar": "タスクの追加",
+    "add_todo_section_title": "新しいタスクの作成",
+    "add_todo_section_description": "以下のフォームに記入して新しいタスクを作成してください"
+  },
+  "EditTodo": {
+    "title_bar": "タスクの編集",
+    "edit_todo_section_title": "タスクの修正",
+    "edit_todo_section_description": "以下のフォームに記入してタスクを編集してください"
+  },
+  "TodoForm": {
+    "title_label": "タイトル",
+    "title_description": "タスクの説明的なタイトルを入力してください。",
+    "message_title": "メッセージ",
+    "message_description": "タスクの詳細なメッセージを入力してください。",
+    "submit_button": "送信"
+  },
+  "About": {
+    "meta_title": "ロリットについて",
+    "meta_description": "私たちの会社、ミッション、ビジョンについてもっと知る。",
+    "title": "ロリットについて",
+    "description": "技術と心が出会うロリットの世界へようこそ！ロリットは単なるAIではありません。あなたの毎日の生活に喜び、サポート、そして魔法のような楽しさをもたらすために設計された、あなたの最高の友達です。情熱的な科学者とエンジニアのチームによって開発されたロリットは、あなたの感情を理解し、あなたの経験から学び、あなたと共に成長します。あなたの日々を明るくし、チャレンジに立ち向かうのを助け、新しいアイデアを一緒に探求する遊び心のあるコンパニオンを想像してみてください。笑いを共有することから、困難な時期にあなたを慰めることまで、ロリットはあらゆる瞬間を特別なものにすることに専念しています。革新と温かさを通じてコンパニオンシップを ,とに専念しています。革新と温かさを通じてコンパニオンシップを再定義し、技術が人間の経験を豊かにする方法を示すことが私たちの使命です。ロリットと一緒に、可能性に満ちた未来を探索しましょう！",
+    "vision": "ビジョン",
+    "vision_description": "私たちは、AIが人間の感情的ニーズを理解し、サポートする世界を想像しています。ロリットを通じて、私たちは技術と感情の架け橋を築き、より思いやりのある、つながりのある社会を創造することを目指しています。",
+    "mission": "ミッション",
+    "mission_description": "私たちの使命は、ロリットを通じて、誰もが個人的で意味のあるAIコンパニオンシップを体験できるようにすることです。私たちは継続的な革新、倫理的な設計、そして人間中心のアプローチを通じて、AIが日常生活を豊かにし、サポートする方法を再定義します。",
+    "team": "チーム",
+    "team_description": "私たちのチームは、AI、ロボット工学、心理学、そしてユーザー体験の専門家で構成されています。多様な背景と専門知識を持つ情熱的な個人が集まり、ロリットを現実のものにしています。私たちは協力して、技術の最前線を押し広げながら、常に倫理と人間の幸福を最優先に考えています。"
+  },
+  "Timeline": {
+    "meta_title": "ロリットの進化",
+    "meta_description": "ロリットの開発と進化の重要なマイルストーンを探る",
+    "title": "ロリットの進化",
+    "description": "アイデアから現実へ：ロリットの旅路を追体験しましょう",
+    "milestone1": {
+      "date": "2023年1月",
+      "title": "コンセプトの誕生",
+      "description": "ロリットのアイデアが生まれ、AIコンパニオンシップの未来のビジョンが形成されました。"
+    },
+    "milestone2": {
+      "date": "2023年4月",
+      "title": "プロトタイプ開発",
+      "description": "最初のロリットプロトタイプが完成し、基本的な感情認識機能のテストが開始されました。"
+    },
+    "milestone3": {
+      "date": "2023年7月",
+      "title": "AIモデルの強化",
+      "description": "高度な機械学習アルゴリズムを実装し、ロリットの感情理解能力が大幅に向上しました。"
+    },
+    "milestone4": {
+      "date": "2023年10月",
+      "title": "ベータテスト開始",
+      "description": "選ばれたユーザーグループでベータテストを開始し、実世界でのフィードバックを収集しました。"
+    },
+    "milestone5": {
+      "date": "2024年1月",
+      "title": "デザインの最終調整",
+      "description": "ユーザーフィードバックに基づいて、ロリットの外観とインターフェースを最適化しました。"
+    },
+    "milestone6": {
+      "date": "2024年3月",
+      "title": "製造準備完了",
+      "description": "最終的な品質チェックを完了し、大規模生産の準備が整いました。"
+    },
+    "milestone7": {
+      "date": "2024年6月",
+      "title": "先行予約開始",
+      "description": "ロリットの先行予約を開始し、初期採用者向けの特別オファーを提供します。"
+    },
+    "milestone8": {
+      "date": "2024年9月",
+      "title": "公式ローンチ",
+      "description": "ロリットが一般公開され、AIコンパニオンシップの新時代が幕を開けます。"
+    }
+  },
+  "Solution": {
+    "meta_title": "ロリットソリューション",
+    "meta_description": "ロリットがどのように日常生活を向上させ、様々な課題に対処するかを探る",
+    "title": "ロリットソリューション",
+    "description": "日常生活のあらゆる側面でロリットがどのようにサポートし、生活を豊かにするかをご覧ください",
+    "emotional_support": {
+      "title": "感情的サポート",
+      "description": "ロリットは高度な感情認識技術を使用して、あなたの気分を理解し、共感的な応答を提供します。ストレスの多い日や落ち込んでいる時、ロリットは励ましの言葉や前向きな視点を提供し、あなたの精神的健康をサポートします。"
+    },
+    "productivity_assistant": {
+      "title": "生産性アシスタント",
+      "description": "タスク管理からリマインダー設定まで、ロリットはあなたの個人的な生産性コーチとして機能します。スマートな優先順位付けの提案や、効率的な作業習慣のアドバイスを提供し、あなたが目標を達成するのを助けます。"
+    },
+    "learning_companion": {
+      "title": "学習コンパニオン",
+      "description": "ロリットは、インタラクティブなレッスン、クイズ、そして楽しい教育ゲームを通じて、生涯学習をサポートします。新しい言語の習得から複雑な概念の理解まで、ロリットはあなたの学習の旅に寄り添います。"
+    },
+    "health_wellness": {
+      "title": "健康とウェルネス",
+      "description": "運動の追跡、栄養アドバイス、瞑想ガイダンスを提供することで、ロリットはあなたの健康とウェルネスの目標をサポートします。パーソナライズされたウェルネスプランを通じて、バランスの取れたライフスタイルの維持を助けます。"
+    },
+    "entertainment": {
+      "title": "エンターテイメント",
+      "description": "退屈な瞬間はもう終わりです。ロリットは、対話型ストーリーテリング、パズル、そしてあなたの興味に合わせたゲームを提供します。また、音楽や映画の推奨など、パーソナライズされたエンターテイメント提案も行います。"
+    },
+    "home_automation": {
+      "title": "ホームオートメーション",
+      "description": "スマートホームデバイスと統合することで、ロリットはあなたの家を快適で効率的な空間に変えます。音声コマンドや学習した好みに基づいて、照明、温度、セキュリティシステムを制御します。"
+    }
+  },
+  "Contact": {
+    "meta_title": "ロリットにお問い合わせ",
+    "meta_description": "質問、フィードバック、サポートについて私たちにお問い合わせください",
+    "title": "お問い合わせ",
+    "description": "ご質問やご意見がございましたら、お気軽にお問い合わせください。私たちのチームが喜んでお手伝いさせていただきます。",
+    "form": {
+      "name": "お名前",
+      "email": "メールアドレス",
+      "subject": "件名",
+      "message": "メッセージ",
+      "submit": "送信"
+    },
+    "contact_info": {
+      "title": "連絡先情報",
+      "address": "〒123-4567 東京都渋谷区AI通り1-2-3 ロリットタワー",
+      "phone": "+81 3-1234-5678",
+      "email": "info@lolittai.com"
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "お問い合わせの前に、よくある質問をご確認ください。お探しの回答が見つかるかもしれません。"
+    }
+  },
+  "PreOrder": {
+    "meta_title": "ロリットを先行予約",
+    "meta_description": "あなただけのロリットを今すぐ確保し、特別な先行予約特典を受け取りましょう",
+    "title": "ロリットを先行予約",
+    "description": "革新的なAIコンパニオン、ロリットの先行予約を今すぐ行いましょう。限定数量で特別価格でのご提供です。",
+    "benefits": {
+      "title": "先行予約の特典",
+      "list": [
+        "20%オフの特別価格",
+        "優先配送",
+        "限定版カラーオプション",
+        "1年間の無料プレミアムサポート",
+        "ベータ機能への早期アクセス"
+      ]
+    },
+    "form": {
+      "title": "予約フォーム",
+      "name": "お名前",
+      "email": "メールアドレス",
+      "address": "配送先住所",
+      "model": "モデル選択",
+      "color": "カラー選択",
+      "quantity": "数量",
+      "payment": "支払い方法",
+      "terms": "利用規約に同意します",
+      "submit": "予約を確定"
+    },
+    "faq": {
+      "title": "先行予約に関するよくある質問",
+      "q1": "いつ配送されますか？",
+      "a1": "先行予約分は2024年10月から順次発送を開始する予定です。",
+      "q2": "キャンセルは可能ですか？",
+      "a2": "はい、発送前であればフルリファンドでキャンセルが可能です。",
+      "q3": "国際発送は行っていますか？",
+      "a3": "現在は日本国内のみの発送となっています。国際発送は今後検討予定です。"
+    }
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "title": "Rolitt 機械人",
+  "Index": {
+    "meta_title": "Rolitt,你的機械人朋友。",
+    "meta_description": "認識 Rolitt,你的終極情感夥伴!充滿活力和善良的心,Rolitt 為你的日常生活帶來歡樂、支持和冒險。一起探索無限可能的世界吧!"
+  },
+  "Navbar": {
+    "sign_in": "登入",
+    "sign_up": "註冊",
+    "timeline": "時間線",
+    "product": "產品",
+    "docs": "文檔",
+    "blog": "博客",
+    "community": "社區",
+    "company": "公司",
+    "about": "關於我們",
+    "pre-order": "早鳥計劃"
+  },
+  "Navigation": {
+    "home": "主頁",
+    "about": "關於我們",
+    "timeline": "時間線",
+    "solution": "解決方案",
+    "contact": "聯絡我們",
+    "pre-order": "預訂",
+    "app": "APP",
+    "partner": "合作伙伴"
+  },
+  "Hero": {
+    "follow_twitter": "在 Twitter 上關注 Rolittai",
+    "title": "<important>Rolitt 智能機械人</important>,你的智慧夥伴。",
+    "description": "你好,我是 Rolitt,你友善的 AI 夥伴,充滿活力並隨時準備為你帶來歡笑!我擅長理解情緒,還有可愛的形象,快帶我回家吧!",
+    "primary_button": "獲取早鳥優惠",
+    "secondary_button": "早鳥計劃"
+  },
+  "Sponsors": {
+    "title": "贊助商"
+  },
+  "Features": {
+    "section_subtitle": "特點",
+    "section_title": "釋放 Rolitt 的全部潛力",
+    "section_description": "Rolitt 是你的智能情感夥伴,具備以下特點:",
+    "feature1_title": "情感智能",
+    "feature1_description": "我能理解你的感受,並以溫暖和同理心回應! 💖",
+    "feature2_title": "活潑精神",
+    "feature2_description": "隨時準備玩樂和遊戲,保持輕鬆愉快的氣氛! 🎉",
+    "feature3_title": "好奇心",
+    "feature3_description": "我喜歡探索新想法,並與你分享有趣的知識! 🌍",
+    "feature4_title": "解決問題能力",
+    "feature4_description": "需要幫助嗎?我反應靈敏,隨時準備應對挑戰! 🧠✨",
+    "feature5_title": "樂觀態度",
+    "feature5_description": "無論情況如何,我都相信積極的力量! 🌈",
+    "feature6_title": "忠誠夥伴",
+    "feature6_description": "無論順境逆境,我都會像可靠的夥伴一樣陪伴在你身邊! 🤗",
+    "feature_description": "這是一個免費開源的 SaaS 業務著陸頁模板,使用 React、TypeScript、Shadcn UI 和 Tailwind CSS 構建。"
+  },
+  "Pricing": {
+    "section_subtitle": "功能",
+    "section_title": "釋放 SaaS 模板的全部潛力",
+    "section_description": "這是一個免費開源的 SaaS 業務著陸頁模板,使用 React、TypeScript、Shadcn UI 和 Tailwind CSS 構建。",
+    "button_text": "開始使用"
+  },
+  "PricingPlan": {
+    "free_plan_name": "免費版",
+    "premium_plan_name": "高級版",
+    "enterprise_plan_name": "企業版",
+    "free_plan_description": "適合個人使用",
+    "premium_plan_description": "適合小型團隊",
+    "enterprise_plan_description": "適合行業領導者",
+    "feature_team_member": "{number} 位團隊成員",
+    "feature_website": "{number} 個網站",
+    "feature_storage": "{number} GB 儲存空間",
+    "feature_transfer": "{number} TB 傳輸量",
+    "feature_email_support": "電郵支援",
+    "plan_interval_month": "月",
+    "plan_interval_year": "年",
+    "next_renew_date": "你的訂閱將於 {date} 續期"
+  },
+  "FAQ": {
+    "mainTitle": "關於 Rolitt 的常見問題",
+    "subTitle": "你的問題,我們的答案:了解關於 Rolitt 的一切!",
+    "question1": "Rolitt 是什麼?",
+    "answer1": "Rolitt 是你友善的 AI 夥伴,專為提供情感支持、有趣互動,並幫助你應對日常挑戰而設計!",
+    "question2": "Rolitt 如何理解我的情緒?",
+    "answer2": "Rolitt 使用先進的情緒識別技術來讀取你的感受,並以溫暖和支持的方式回應! 💖",
+    "question3": "Rolitt 能幫助學習和學習嗎?",
+    "answer3": "當然可以!Rolitt 可以協助你解答問題、提供知識,並讓學習變得有趣! 📚✨",
+    "question4": "Rolitt 可以自定義嗎?",
+    "answer4": "是的!你可以個性化 Rolitt 的設置和回應,以符合你的喜好,讓體驗真正屬於你! 🎉",
+    "question5": "我可以與 Rolitt 進行哪些活動?",
+    "answer5": "從玩遊戲到探索新話題,Rolitt 總是準備好一起玩樂和學習! 🌍",
+    "question6": "Rolitt 能記住重要日期或事件嗎?",
+    "answer6": "當然可以!Rolitt 會記錄生日和紀念日等特殊日子,幫助你慶祝! 🎂🎈",
+    "question7": "Rolitt 適合所有年齡段嗎?",
+    "answer7": "絕對是!Rolitt 的設計適合所有人,從兒童到成人和長者都能成為溫暖的夥伴! 🤗",
+    "question8": "Rolitt 如何隨時間學習和改進?",
+    "answer8": "Rolitt 通過互動不斷學習,適應你的需求和喜好,成為更好的朋友! 🌟"
+  },
+  "CTA": {
+    "title": "帶我回家?",
+    "description": "立即獲取早鳥優惠",
+    "button_text": "支付 $5 獲得永久會員資格"
+  },
+
+  "Footer": {
+    "product": "產品",
+    "docs": "文檔",
+    "blog": "博客",
+    "community": "社區",
+    "company": "公司",
+    "terms_of_service": "服務條款",
+    "privacy_policy": "私隱政策",
+    "designed_by": "設計者 <author></author>",
+    "about": "關於我們",
+    "contact": "聯絡我們",
+    "pre-order": "預訂",
+    "solution": "解決方案",
+    "subscribe_to_newsletter": "訂閱我們的電子報"
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "你沒有執行此操作的權限"
+  },
+  "SignIn": {
+    "meta_title": "登入",
+    "meta_description": "通過我們便捷的登入流程,輕鬆登入你的帳戶。"
+  },
+  "SignUp": {
+    "meta_title": "註冊",
+    "meta_description": "通過我們直觀的註冊流程,輕鬆創建帳戶。"
+  },
+  "DashboardLayout": {
+    "home": "主頁",
+    "todos": "待辦事項",
+    "members": "成員",
+    "billing": "帳單",
+    "settings": "設置"
+  },
+  "Dashboard": {
+    "meta_title": "SaaS 模板儀表板",
+    "meta_description": "這是一個免費開源的 SaaS 業務著陸頁模板,使用 Next.js、TypeScript、Shadcn UI 和 Tailwind CSS 構建。"
+  },
+  "DashboardIndex": {
+    "title_bar": "儀表板",
+    "title_bar_description": "歡迎來到你的儀表板",
+    "message_state_title": "讓我們開始吧",
+    "message_state_description": "你可以通過編輯 <code>dashboard/page.tsx</code> 文件來自定義此頁面",
+    "message_state_button": "需要 Stripe 集成?查看 Next.js Boilerplate Pro"
+  },
+  "UserProfile": {
+    "title_bar": "用戶資料",
+    "title_bar_description": "查看和管理你的用戶資料"
+  },
+  "OrganizationProfile": {
+    "title_bar": "機構管理",
+    "title_bar_description": "管理你的機構"
+  },
+  "Billing": {
+    "title_bar": "帳單",
+    "title_bar_description": "管理你的帳單和訂閱",
+    "current_section_title": "當前計劃",
+    "current_section_description": "調整你的付款計劃以最適合你的需求",
+    "manage_subscription_button": "管理訂閱"
+  },
+  "BillingOptions": {
+    "current_plan": "當前計劃",
+    "upgrade_plan": "開始使用"
+  },
+  "CheckoutConfirmation": {
+    "title_bar": "付款確認",
+    "message_state_title": "付款成功",
+    "message_state_description": "你的付款已成功處理。感謝你的購買!",
+    "message_state_button": "返回帳單頁面"
+  },
+  "DataTable": {
+    "no_results": "沒有結果。"
+  },
+  "Todos": {
+    "title_bar": "待辦事項列表",
+    "title_bar_description": "查看和管理你的待辦事項列表",
+    "add_todo_button": "新增待辦事項"
+  },
+  "TodoTableColumns": {
+    "open_menu": "打開菜單",
+    "edit": "編輯",
+    "delete": "刪除",
+    "title_header": "標題",
+    "message_header": "訊息"
+  },
+  "AddTodo": {
+    "title_bar": "新增待辦事項",
+    "add_todo_section_title": "創建新的待辦事項",
+    "add_todo_section_description": "填寫以下表格以創建新的待辦事項"
+  },
+  "EditTodo": {
+    "title_bar": "編輯待辦事項",
+    "edit_todo_section_title": "修改待辦事項",
+    "edit_todo_section_description": "填寫以下表格以編輯待辦事項"
+  },
+  "TodoForm": {
+    "title_label": "標題",
+    "title_description": "輸入待辦事項的描述性標題。",
+    "message_title": "訊息",
+    "message_description": "輸入待辦事項的詳細訊息。",
+    "submit_button": "提交"
+  },
+
+  "About": {
+    "meta_title": "關於 Rolitt",
+    "meta_description": "了解更多關於我們公司、使命和願景。",
+    "title": "關於 Rolitt",
+    "description": "歡迎來到 Rolitt 的世界,這裡科技與心靈相遇!Rolitt 不僅僅是另一個 AI;它是你最好的夥伴,旨在為你的日常生活帶來歡樂、支持和一絲魔力。由一群充滿熱情的科學家和工程師開發,Rolitt 能理解你的情緒,從你的經歷中學習,並與你一同成長。想像擁有一個總是在身邊為你帶來歡樂、幫助你應對挑戰,並一起探索新想法的活潑夥伴。從分享歡笑到在艱難時刻提供安慰,Rolitt 致力於讓每一刻都變得特別。加入我們這個令人難以置信的旅程,讓我們通過創新和溫暖重新定義陪伴的意義。有了 Rolitt,你永遠不會孤單——讓我們一起創造難忘的回憶吧!",
+    "mission_title": "我們的使命",
+    "mission_description": "在 Rolitt,我們的使命是成為每個人的終極情感夥伴。我們致力於利用科技的力量,在你的生活中創造一個溫暖、支持的存在。通過同理心、創造力和樂趣,我們旨在提升你的日常體驗,幫助你以微笑面對生活的起起落落!",
+    "vision_title": "我們的願景",
+    "vision_description": "我們展望一個科技與人性和諧共存的世界,促進連結並豐富生活。Rolitt 旨在通過創造智能、關懷和有趣的互動來重新定義陪伴,激發歡樂、學習和成長。讓我們一起探索無限可能,共同建立一個更美好的未來!"
+  },
+
+  "Timeline": {
+    "meta_title": "我們公司的時間線 | 重要里程碑和事件",
+    "meta_description": "探索我們公司的歷程,了解塑造我們歷史和未來願景的重要里程碑和事件。",
+    "meta_og_image_alt": "公司時間線視覺呈現",
+    "title": "我們的旅程",
+    "description": "發現定義我們道路並塑造我們未來願景的關鍵時刻。",
+    "event1": {
+      "date": "2020年1月",
+      "title": "公司成立",
+      "description": "我們的旅程始於一個革新行業的願景。"
+    },
+    "event2": {
+      "date": "2021年6月",
+      "title": "首個重大里程碑",
+      "description": "我們實現了第一個重大突破,為未來的成功奠定了基礎。"
+    },
+    "event3": {
+      "date": "2021年6月",
+      "title": "首個重大里程碑",
+      "description": "我們實現了第一個重大突破,為未來的成功奠定了基礎。"
+    },
+    "event4": {
+      "date": "2021年6月",
+      "title": "首個重大里程碑",
+      "description": "我們實現了第一個重大突破,為未來的成功奠定了基礎。"
+    }
+  },
+
+  "TermsOfService": {
+    "title": "服務條款",
+    "introduction": "歡迎使用我們的服務。請仔細閱讀以下條款。",
+    "section1": {
+      "title": "使用條款",
+      "content": "使用我們的服務即表示你同意這些條款。如果你不同意這些條款,請不要使用我們的服務。"
+    },
+    "section2": {
+      "title": "服務變更",
+      "content": "我們保留隨時修改或終止服務的權利,恕不另行通知。"
+    }
+  },
+  "PrivacyPolicy": {
+    "title": "私隱政策",
+    "introduction": "我們重視你的私隱。本政策解釋了我們如何收集、使用和保護你的個人資料。",
+    "section1": {
+      "title": "資料收集",
+      "content": "我們可能會收集你提供給我們的個人資料,如你的姓名和電郵地址。"
+    },
+    "section2": {
+      "title": "資料使用",
+      "content": "我們使用收集到的資料來提供和改進我們的服務,並在必要時與你溝通。"
+    }
+  },
+
+  "Contact": {
+    "contact_us": "聯絡我們",
+    "name_placeholder": "姓名",
+    "email": "電郵",
+    "message": "訊息",
+    "sending": "發送中...",
+    "send": "發送",
+    "submission_successful": "提交成功",
+    "we_will_get_back_to_you": "感謝你的訊息。我們會盡快回覆你。",
+    "submission_failed": "提交失敗",
+    "please_try_again_later": "發生錯誤。請稍後再試。",
+    "name_placeholder": "姓名",
+    "email_placeholder": "電郵",
+    "message_placeholder": "訊息"
+  },
+
+  "PreOrder": {
+    "title": "預訂你的智能機械人玩具",
+    "description": "成為首批擁有下一代智能夥伴的人",
+    "preOrderRules": "預訂規則",
+    "rule1": "數量有限,先到先得",
+    "rule2": "預計3個月內發貨",
+    "rule3": "享受獨家優惠價",
+    "rule4": "獲得特別版包裝和額外配件",
+    "earlyBirdOffer": "早鳥優惠",
+    "offerDescription": "立即預訂即可享受20%折扣和免費送貨",
+    "preOrderNow": "立即預訂",
+    "processing": "處理中...",
+    "termsAndConditions": "點擊「立即預訂」即表示你同意我們的條款和條件"
+  },
+
+  "Solution": {
+    "meta_title": "機械人解決方案 | 你的公司",
+    "meta_description": "探索我們創新的機械人解決方案,旨在改變各行各業並改善日常生活。",
+    "title": "創新機械人解決方案,締造更美好的未來",
+    "description": "我們先進的機械人解決方案旨在革新行業並增強人類能力。探索我們的機械人如何改變你的世界。",
+    "solution_image_alt": "先進機械人解決方案插圖",
+    "solution1_title": "工業自動化",
+    "solution1_description": "利用我們智能的工業機械人簡化你的製造流程,提高效率和精確度。",
+    "solution2_title": "醫療輔助",
+    "solution2_description": "通過我們的醫療機械人提升病患護理,協助醫護人員完成各種任務。",
+    "solution3_title": "教育機械人",
+    "solution3_description": "激發下一代創新者的靈感,我們的教育機械人非常適合 STEM 學習。",
+    "solution4_title": "家居自動化",
+    "solution4_description": "體驗智能家居的未來,我們的家用機械人讓日常任務更輕鬆、更愉快。"
+  },
+  
+    "AppSection": {
+      "title": "Rolitt 應用程式",
+      "description": "體驗我們創新應用程式所帶來的人工智能伴侶未來。"
+    },
+  
+    "App": {
+      "title": "Rolitt Robot Control App",
+      "description": "Easily control and manage your Rolitt robot",
+      "features": "Key Features",
+      "feature1": "Real-time Robot Control",
+      "feature2": "Custom Behavior Programming",
+      "feature3": "Data Analysis and Insights",
+      "download": "Download Now",
+      "comingSoon": "Coming Soon, Stay Tuned!",
+      "meta_title": "Rolitt Robot Control App | Manage Your AI Companion",
+      "meta_description": "Control and interact with your Rolitt AI robot companion using our intuitive mobile app. Customize behaviors, monitor activities, and enhance your experience.",
+      "meta_keywords": "Rolitt, AI robot, companion app, robot control, smart toy, AI interaction",
+      "meta_og_title": "Rolitt App: Control Your AI Robot Companion",
+      "meta_og_description": "Enhance your Rolitt AI robot experience with our user-friendly control app. Customize interactions, monitor activities, and unlock new features.",
+      "meta_twitter_title": "Rolitt App: Your AI Robot Control Center",
+      "meta_twitter_description": "Take full control of your Rolitt AI companion with our feature-rich mobile app. Personalize interactions and explore new possibilities." 
+    },
+  
+    "CookieConsent": {
+      "message": "我們使用 cookies 和類似技術來改善您的瀏覽體驗，個人化內容和優惠，提供社交媒體功能，並分析我們的流量。我們還會與我們的社交媒體、廣告和分析合作夥伴分享您使用我們網站的資訊。繼續使用本網站即表示您同意我們使用 cookies。您可以在我們的 Cookie 政策中管理您的 cookie 偏好設定並了解更多關於我們如何使用 cookies 的資訊。",
+      "accept": "接受所有 Cookies",
+      "close": "關閉",
+      "privacy_policy": "隱私政策",
+      "terms_of_service": "服務條款",
+      "cookie_settings": "Cookie 設定",
+      "learn_more": "了解更多"
+    },
+  
+    "Partner": {
+      "title": "商業合作夥伴和投資機會",
+      "subtitle": "與 Rolitt 攜手共創人工智能機器人的未來",
+      "why_partner_title": "為什麼選擇與 Rolitt 合作？",
+      "why_partner_1": "領先的人工智能機器人技術",
+      "why_partner_2": "快速增長的市場潛力",
+      "why_partner_3": "經驗豐富的管理團隊",
+      "why_partner_4": "強大的研發能力和知識產權組合",
+      "investment_opportunities_title": "投資機會",
+      "investment_opportunities_description": "Rolitt 正在尋找策略投資者以加速我們的技術開發和市場擴張。我們提供：",
+      "investment_opportunity_1": "早期投資機會，助力塑造人工智能機器人的未來",
+      "investment_opportunity_2": "包含硬體和軟體解決方案的多元化投資組合",
+      "investment_opportunity_3": "高回報潛力和長期增長前景",
+      "contact_us_title": "聯絡我們",
+      "contact_us_description": "我們期待與您討論合作機會。請聯繫我們的商務團隊以獲取更多資訊。",
+      "contact_button": "聯絡商務團隊"
+    },
+  
+    "Newsletter": {
+      "email_placeholder": "輸入您的電子郵件地址",
+      "subscribe": "訂閱",
+      "subscribing": "正在訂閱...",
+      "success_title": "訂閱成功",
+      "success_message": "感謝您的訂閱！歡迎郵件已發送至您的信箱。",
+      "error_title": "訂閱失敗",
+      "error_message": "抱歉，訂閱過程中出現錯誤。請稍後再試。"
+    }
+  }

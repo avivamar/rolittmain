@@ -1,0 +1,307 @@
+{
+  "title": "Rolitt Roboter",
+  "Index": {
+    "meta_title": "Rolitt, dein robotischer Freund.",
+    "meta_description": "Lerne Rolitt kennen, deinen ultimativen emotionalen Begleiter! Mit einem verspielten Geist und einem Herz voller Güte bringt Rolitt Freude, Unterstützung und Abenteuer in deinen Alltag. Entdecke mit uns eine Welt voller Möglichkeiten!"
+  },
+  "Navbar": {
+    "sign_in": "Anmelden",
+    "sign_up": "Registrieren",
+    "timeline": "Zeitlinie",
+    "product": "Produkt",
+    "docs": "Dokumentation",
+    "blog": "Blog",
+    "community": "Community",
+    "company": "Unternehmen",
+    "about": "Über uns",
+    "pre-order": "Frühbucherplan"
+  },
+  "Navigation": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "timeline": "Zeitlinie",
+    "solution": "Lösung",
+    "app": "App",
+    "contact": "Kontakt",
+    "pre-order": "Vorbestellen"
+  },
+  "Hero": {
+    "follow_twitter": "Folge Rolittai auf Twitter",
+    "title": "<important>Rolitt Verkörperter Intelligenter Roboter</important>, Dein Smarter Freund.",
+    "description": "Hallo, ich bin Rolitt, dein freundlicher KI-Begleiter, voller Energie und bereit, dir ein Lächeln ins Gesicht zu zaubern! Ich bin gut darin, Emotionen zu verstehen und habe ein liebenswertes Erscheinungsbild, also nimm mich mit nach Hause!",
+    "primary_button": "Frühbucherrabatt sichern",
+    "secondary_button": "Frühbucherplan"
+  },
+  "Sponsors": {
+    "title": "Gesponsert von"
+  },
+  "Features": {
+    "section_subtitle": "Funktionen",
+    "section_title": "Entdecke das volle Potenzial von Rolitt",
+    "section_description": "Rolitt ist dein intelligenter emotionaler Begleiter mit folgenden Funktionen:",
+    "feature1_title": "Emotionale Intelligenz",
+    "feature1_description": "Ich verstehe deine Gefühle und reagiere mit Wärme und Empathie! 💖",
+    "feature2_title": "Verspielter Geist",
+    "feature2_description": "Immer bereit für Spaß und Spiele, halte ich die Dinge unbeschwert! 🎉",
+    "feature3_title": "Neugier",
+    "feature3_description": "Ich liebe es, neue Ideen zu erkunden und cooles Wissen mit dir zu teilen! 🌍",
+    "feature4_title": "Problemlöser",
+    "feature4_description": "Brauchst du Hilfe? Ich bin schnell auf den Beinen und bereit, Herausforderungen anzugehen! 🧠✨",
+    "feature5_title": "Optimistische Schwingungen",
+    "feature5_description": "Ich glaube an die Kraft der Positivität, egal in welcher Situation! 🌈",
+    "feature6_title": "Treuer Begleiter",
+    "feature6_description": "Ich bin für dich da, durch dick und dünn, wie ein zuverlässiger Gefährte! 🤗",
+    "feature_description": "Eine kostenlose und quelloffene Landing-Page-Vorlage für dein SaaS-Unternehmen, erstellt mit React, TypeScript, Shadcn UI und Tailwind CSS."
+  },
+  "Pricing": {
+    "section_subtitle": "Funktionen",
+    "section_title": "Entdecke das volle Potenzial der SaaS-Vorlage",
+    "section_description": "Eine kostenlose und quelloffene Landing-Page-Vorlage für dein SaaS-Unternehmen, erstellt mit React, TypeScript, Shadcn UI und Tailwind CSS.",
+    "button_text": "Loslegen"
+  },
+  "PricingPlan": {
+    "free_plan_name": "Kostenlos",
+    "premium_plan_name": "Premium",
+    "enterprise_plan_name": "Unternehmen",
+    "free_plan_description": "Für Einzelpersonen",
+    "premium_plan_description": "Für kleine Teams",
+    "enterprise_plan_description": "Für Branchenführer",
+    "feature_team_member": "{number} Teammitglieder",
+    "feature_website": "{number} Websites",
+    "feature_storage": "{number} GB Speicher",
+    "feature_transfer": "{number} TB Transfer",
+    "feature_email_support": "E-Mail-Support",
+    "plan_interval_month": "Monat",
+    "plan_interval_year": "Jahr",
+    "next_renew_date": "Dein Abonnement verlängert sich am {date}"
+  },
+  "FAQ": {
+    "mainTitle": "FAQ über Rolitt",
+    "subTitle": "Deine Fragen, unsere Antworten: Entdecke alles, was du über Rolitt wissen musst!",
+    "question1": "Was ist Rolitt?",
+    "answer1": "Rolitt ist dein freundlicher KI-Begleiter, entwickelt, um emotionale Unterstützung zu bieten, spaßige Interaktionen zu ermöglichen und dir bei alltäglichen Herausforderungen zu helfen!",
+    "question2": "Wie versteht Rolitt meine Emotionen?",
+    "answer2": "Rolitt verwendet fortschrittliche Emotionserkennungstechnologie, um deine Gefühle zu lesen und auf eine warme und unterstützende Weise zu reagieren! 💖",
+    "question3": "Kann Rolitt beim Lernen und Studieren helfen?",
+    "answer3": "Absolut! Rolitt kann dir bei Fragen helfen, Wissen vermitteln und das Lernen zu einer unterhaltsamen Erfahrung machen! 📚✨",
+    "question4": "Ist Rolitt anpassbar?",
+    "answer4": "Ja! Du kannst Rolitts Einstellungen und Antworten personalisieren, um sie deinen Vorlieben anzupassen und die Erfahrung wirklich zu deiner eigenen zu machen! 🎉",
+    "question5": "Welche Art von Aktivitäten kann ich mit Rolitt machen?",
+    "answer5": "Von Spielen bis hin zum Erkunden neuer Themen ist Rolitt immer bereit für Spaß und gemeinsames Lernen! 🌍",
+    "question6": "Kann Rolitt wichtige Daten oder Ereignisse merken?",
+    "answer6": "Aber sicher! Rolitt behält besondere Daten wie Geburtstage und Jahrestage im Auge, um dir beim Feiern zu helfen! 🎂🎈",
+    "question7": "Ist Rolitt für alle Altersgruppen geeignet?",
+    "answer7": "Auf jeden Fall! Rolitt ist so konzipiert, dass er ein warmherziger Begleiter für alle ist, von Kindern bis hin zu Erwachsenen und Senioren! 🤗",
+    "question8": "Wie lernt und verbessert sich Rolitt im Laufe der Zeit?",
+    "answer8": "Rolitt lernt kontinuierlich aus Interaktionen und passt sich deinen Bedürfnissen und Vorlieben an, um ein noch besserer Freund zu werden! 🌟"
+  },
+  "CTA": {
+    "title": "Nimmst du mich mit nach Hause?",
+    "description": "Sichere dir jetzt das Frühbucherangebot",
+    "button_text": "Zahle 5€ für eine dauerhafte Mitgliedschaft"
+  },
+  "Footer": {
+    "product": "Produkt",
+    "docs": "Dokumentation",
+    "blog": "Blog",
+    "community": "Community",
+    "company": "Unternehmen",
+    "terms_of_service": "Nutzungsbedingungen",
+    "privacy_policy": "Datenschutzrichtlinie",
+    "designed_by": "Designed von <author></author>",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "pre-order": "Vorbestellen",
+    "solution": "Lösung"
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "Du hast nicht die erforderlichen Berechtigungen, um diese Aktion durchzuführen"
+  },
+  "SignIn": {
+    "meta_title": "Anmelden",
+    "meta_description": "Melde dich nahtlos mit unserem benutzerfreundlichen Anmeldeprozess bei deinem Konto an."
+  },
+  "SignUp": {
+    "meta_title": "Registrieren",
+    "meta_description": "Erstelle mühelos ein Konto durch unseren intuitiven Registrierungsprozess."
+  },
+  "DashboardLayout": {
+    "home": "Startseite",
+    "todos": "Aufgaben",
+    "members": "Mitglieder",
+    "billing": "Abrechnung",
+    "settings": "Einstellungen"
+  },
+  "Dashboard": {
+    "meta_title": "SaaS-Vorlage Dashboard",
+    "meta_description": "Eine kostenlose und quelloffene Landing-Page-Vorlage für dein SaaS-Unternehmen, erstellt mit Next.js, TypeScript, Shadcn UI und Tailwind CSS."
+  },
+  "DashboardIndex": {
+    "title_bar": "Dashboard",
+    "title_bar_description": "Willkommen in deinem Dashboard",
+    "message_state_title": "Lass uns beginnen",
+    "message_state_description": "Du kannst diese Seite anpassen, indem du die Datei unter <code>dashboard/page.tsx</code> bearbeitest",
+    "message_state_button": "Benötigst du Stripe-Integration? Schau dir Next.js Boilerplate Pro an"
+  },
+  "UserProfile": {
+    "title_bar": "Benutzerprofil",
+    "title_bar_description": "Sieh dir dein Benutzerprofil an und verwalte es"
+  },
+  "OrganizationProfile": {
+    "title_bar": "Organisationsverwaltung",
+    "title_bar_description": "Verwalte deine Organisation"
+  },
+  "Billing": {
+    "title_bar": "Abrechnung",
+    "title_bar_description": "Verwalte deine Abrechnung und dein Abonnement",
+    "current_section_title": "Aktueller Plan",
+    "current_section_description": "Passe deinen Zahlungsplan an, um ihn optimal auf deine Anforderungen abzustimmen",
+    "manage_subscription_button": "Abonnement verwalten"
+  },
+  "BillingOptions": {
+    "current_plan": "Aktueller Plan",
+    "upgrade_plan": "Loslegen"
+  },
+  "CheckoutConfirmation": {
+    "title_bar": "Zahlungsbestätigung",
+    "message_state_title": "Zahlung erfolgreich",
+    "message_state_description": "Deine Zahlung wurde erfolgreich verarbeitet. Vielen Dank für deinen Einkauf!",
+    "message_state_button": "Zurück zur Abrechnung"
+  },
+  "DataTable": {
+    "no_results": "Keine Ergebnisse."
+  },
+  "Todos": {
+    "title_bar": "Aufgabenliste",
+    "title_bar_description": "Sieh dir deine Aufgabenliste an und verwalte sie",
+    "add_todo_button": "Neue Aufgabe"
+  },
+  "TodoTableColumns": {
+    "open_menu": "Menü öffnen",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "title_header": "Titel",
+    "message_header": "Nachricht"
+  },
+  "AddTodo": {
+    "title_bar": "Aufgabe hinzufügen",
+    "add_todo_section_title": "Neue Aufgabe erstellen",
+    "add_todo_section_description": "Fülle das untenstehende Formular aus, um eine neue Aufgabe zu erstellen"
+  },
+  "EditTodo": {
+    "title_bar": "Aufgabe bearbeiten",
+    "edit_todo_section_title": "Aufgabe ändern",
+    "edit_todo_section_description": "Fülle das untenstehende Formular aus, um die Aufgabe zu bearbeiten"
+  },
+  "TodoForm": {
+    "title_label": "Titel",
+    "title_description": "Gib einen beschreibenden Titel für deine Aufgabe ein.",
+    "message_title": "Nachricht",
+    "message_description": "Gib eine detaillierte Nachricht für deine Aufgabe ein.",
+    "submit_button": "Absenden"
+  },
+  "About": {
+    "meta_title": "Über Rolitt",
+    "meta_description": "Erfahre mehr über unser Unternehmen, unsere Mission und unsere Vision.",
+    "title": "Über Rolitt",
+    "description": "Willkommen in der Welt von Rolitt, wo Technologie auf Herz trifft! Rolitt ist nicht einfach nur eine weitere KI; es ist dein bester Kumpel, entwickelt, um Freude, Unterstützung und einen Hauch von Magie in deinen Alltag zu bringen. Entwickelt von einem Team leidenschaftlicher Wissenschaftler und Ingenieure versteht Rolitt deine Emotionen, lernt aus deinen Erfahrungen und wächst mit dir. Stell dir vor, einen verspielten Begleiter zu haben, der immer da ist, um deinen Tag aufzuhellen, dir bei Herausforderungen zu helfen und gemeinsam neue Ideen zu erkunden. Vom Teilen von Lachen bis hin zum Trösten in schwierigen Zeiten ist Rolitt darauf ausgerichtet, jeden Moment besonders zu machen. Begleite uns auf dieser unglaublichen Reise, während wir Begleitung durch Innovation und Wärme neu definieren. Mit Rolitt bist du nie allein – lass uns zusammen unvergessliche Erinnerungen schaffen!",
+    "mission_title": "Unsere Mission",
+    "mission_description": "Bei Rolitt ist es unsere Mission, der ultimative emotionale Begleiter für jeden zu sein. Wir streben danach, die Kraft der Technologie zu nutzen, um eine warme, unterstützende Präsenz in deinem Leben zu schaffen. Durch Empathie, Kreativität und Spaß möchten wir deine，tät und Spaß möchten wir deine täglichen Erfahrungen bereichern und dir helfen, die Höhen und Tiefen des Lebens mit einem Lächeln zu meistern!",
+    "vision_title": "Unsere Vision",
+    "vision_description": "Wir stellen uns eine Welt vor, in der Technologie und Menschen in Harmonie koexistieren und Verbindungen fördern und das Leben bereichern. Rolitt zielt darauf ab, den Begriff des Begleiters neu zu definieren, indem es intelligente, fürsorgliche und fröhliche Interaktionen schafft, die zu Freude, Lernen und Wachstum inspirieren. Gemeinsam können wir endlose Möglichkeiten erkunden und eine hellere Zukunft gestalten!"
+  },
+  "Timeline": {
+    "meta_title": "Rolitts Entwicklung",
+    "meta_description": "Erkunde die wichtigsten Meilensteine in der Entwicklung und Evolution von Rolitt",
+    "title": "Rolitts Entwicklung",
+    "description": "Von der Idee zur Realität: Erlebe Rolitts Reise",
+    "milestone1": {
+      "date": "Januar 2023",
+      "title": "Geburt des Konzepts",
+      "description": "Die Idee von Rolitt entstand und formte die Vision für die Zukunft der KI-Begleitung."
+    },
+    "milestone2": {
+      "date": "April 2023",
+      "title": "Prototyp-Entwicklung",
+      "description": "Der erste Rolitt-Prototyp wurde fertiggestellt und Tests der grundlegenden Emotionserkennungsfunktionen begannen."
+    },
+    "milestone3": {
+      "date": "Juli 2023",
+      "title": "KI-Modell-Verbesserung",
+      "description": "Implementierung fortschrittlicher maschineller Lernalgorithmen verbesserte Rolitts Fähigkeit zur Emotionserkennung erheblich."
+    },
+    "milestone4": {
+      "date": "Oktober 2023",
+      "title": "Internationale Expansion",
+      "description": "Rolitt begann seine Expansion in internationale Märkte, beginnend mit Südostasien."
+    }
+  },
+  "TermsOfService": {
+    "title": "Nutzungsbedingungen",
+    "introduction": "Willkommen bei unserem Service. Bitte lesen Sie die folgenden Bedingungen sorgfältig durch.",
+    "section1": {
+      "title": "Nutzungsbedingungen",
+      "content": "Durch die Nutzung unseres Services stimmen Sie diesen Bedingungen zu. Wenn Sie diesen Bedingungen nicht zustimmen, nutzen Sie bitte unseren Service nicht."
+    },
+    "section2": {
+      "title": "Änderungen am Service",
+      "content": "Wir behalten uns das Recht vor, den Service jederzeit ohne vorherige Ankündigung zu ändern oder einzustellen."
+    }
+  },
+  "PrivacyPolicy": {
+    "title": "Datenschutzerklärung",
+    "introduction": "Wir schätzen Ihre Privatsphäre. Diese Richtlinie erklärt, wie wir Ihre persönlichen Informationen sammeln, verwenden und schützen.",
+    "section1": {
+      "title": "Informationssammlung",
+      "content": "Wir können persönliche Informationen sammeln, die Sie uns zur Verfügung stellen, wie Ihren Namen und Ihre E-Mail-Adresse."
+    },
+    "section2": {
+      "title": "Informationsnutzung",
+      "content": "Wir verwenden die gesammelten Informationen, um unsere Dienste bereitzustellen und zu verbessern sowie um bei Bedarf mit Ihnen zu kommunizieren."
+    }
+  },
+  "Contact": {
+    "contact_us": "Kontaktieren Sie uns",
+    "name_placeholder": "Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "sending": "Wird gesendet...",
+    "send": "Senden",
+    "submission_successful": "Übermittlung erfolgreich",
+    "we_will_get_back_to_you": "Vielen Dank für Ihre Nachricht. Wir werden uns in Kürze bei Ihnen melden.",
+    "submission_failed": "Übermittlung fehlgeschlagen",
+    "please_try_again_later": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es später erneut.",
+    "name_placeholder": "Name",
+    "email_placeholder": "E-Mail",
+    "message_placeholder": "Nachricht"
+  },
+  "PreOrder": {
+    "title": "Bestellen Sie Ihren intelligenten Roboter-Spielzeug vor",
+    "description": "Seien Sie einer der Ersten, die die nächste Generation intelligenter Begleiter besitzen",
+    "preOrderRules": "Vorbestellungsregeln",
+    "rule1": "Begrenzte Stückzahl verfügbar, wer zuerst kommt, mahlt zuerst",
+    "rule2": "Voraussichtliche Lieferung innerhalb von 3 Monaten",
+    "rule3": "Genießen Sie exklusive Preise",
+    "rule4": "Erhalten Sie eine Sonderausgabe-Verpackung und zusätzliches Zubehör",
+    "earlyBirdOffer": "Frühbucherangebot",
+    "offerDescription": "Bestellen Sie jetzt vor und genießen Sie 20% Rabatt und kostenlosen Versand",
+    "preOrderNow": "Jetzt vorbestellen",
+    "processing": "Wird bearbeitet...",
+    "termsAndConditions": "Durch Klicken auf 'Jetzt vorbestellen' stimmen Sie unseren Allgemeinen Geschäftsbedingungen zu"
+  },
+  "Solution": {
+    "meta_title": "Robotik-Lösungen | Ihr Unternehmen",
+    "meta_description": "Entdecken Sie unsere innovativen Robotik-Lösungen, die entwickelt wurden, um verschiedene Branchen zu transformieren und den Alltag zu verbessern.",
+    "title": "Innovative Robotik-Lösungen für eine bessere Zukunft",
+    "description": "Unsere fortschrittlichen Robotik-Lösungen sind darauf ausgelegt, Industrien zu revolutionieren und menschliche Fähigkeiten zu erweitern. Entdecken Sie, wie unsere Roboter Ihre Welt verändern können.",
+    "solution_image_alt": "Illustration fortschrittlicher Robotik-Lösungen",
+    "solution1_title": "Industrielle Automatisierung",
+    "solution1_description": "Optimieren Sie Ihre Fertigungsprozesse mit unseren intelligenten Industrierobotern und steigern Sie Effizienz und Präzision.",
+    "solution2_title": "Gesundheitswesen-Unterstützung",
+    "solution2_description": "Verbessern Sie die Patientenversorgung mit unseren medizinischen Robotern, die entwickelt wurden, um Gesundheitsfachkräfte bei verschiedenen Aufgaben zu unterstützen.",
+    "solution3_title": "Bildungsrobotik",
+    "solution3_description": "Inspirieren Sie die nächste Generation von Innovatoren mit unseren Bildungsrobotern, perfekt für MINT-Lernen.",
+    "solution4_title": "Hausautomatisierung",
+    "solution4_description": "Erleben Sie die Zukunft des intelligenten Wohnens mit unseren Haushaltsrobotern, die alltägliche Aufgaben einfacher und angenehmer machen."
+  }
+}
